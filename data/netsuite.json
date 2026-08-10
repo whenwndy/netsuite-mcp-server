@@ -1,0 +1,1406 @@
+{
+  "customers": [
+    {
+      "id": "C-001",
+      "name": "UNFI (United Natural Foods)",
+      "customer_type": "distributor",
+      "status": "active",
+      "email": "orders@unfi.com",
+      "phone": "401-528-8634",
+      "billing_address": {
+        "street": "313 Iron Horse Way",
+        "city": "Providence",
+        "state": "RI",
+        "zip": "02908",
+        "country": "US"
+      },
+      "payment_terms": "Net30",
+      "credit_limit_usd": 500000.00,
+      "outstanding_balance_usd": 87420.50,
+      "ytd_revenue_usd": 1243800.00,
+      "account_rep": "Kalani Akana",
+      "created_date": "2021-03-15",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "C-002",
+      "name": "KeHE Distributors",
+      "customer_type": "distributor",
+      "status": "active",
+      "email": "buying@kehe.com",
+      "phone": "630-343-5000",
+      "billing_address": {
+        "street": "900 N. Rohlwing Road",
+        "city": "Itasca",
+        "state": "IL",
+        "zip": "60143",
+        "country": "US"
+      },
+      "payment_terms": "Net30",
+      "credit_limit_usd": 350000.00,
+      "outstanding_balance_usd": 52180.00,
+      "ytd_revenue_usd": 874500.00,
+      "account_rep": "Kalani Akana",
+      "created_date": "2021-06-01",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "C-003",
+      "name": "Whole Foods Market",
+      "customer_type": "retail_chain",
+      "status": "active",
+      "email": "vendor.relations@wholefoods.com",
+      "phone": "512-477-4455",
+      "billing_address": {
+        "street": "550 Bowie Street",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78703",
+        "country": "US"
+      },
+      "payment_terms": "Net30",
+      "credit_limit_usd": 250000.00,
+      "outstanding_balance_usd": 34750.00,
+      "ytd_revenue_usd": 612000.00,
+      "account_rep": "Malia Fonoti",
+      "created_date": "2020-09-10",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "C-004",
+      "name": "Target Corporation",
+      "customer_type": "retail_chain",
+      "status": "active",
+      "email": "vendor-payments@target.com",
+      "phone": "612-304-6073",
+      "billing_address": {
+        "street": "1000 Nicollet Mall",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55403",
+        "country": "US"
+      },
+      "payment_terms": "Net30",
+      "credit_limit_usd": 400000.00,
+      "outstanding_balance_usd": 61320.00,
+      "ytd_revenue_usd": 925400.00,
+      "account_rep": "Malia Fonoti",
+      "created_date": "2022-01-20",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "C-005",
+      "name": "Costco Wholesale",
+      "customer_type": "retail_chain",
+      "status": "active",
+      "email": "merchandise@costco.com",
+      "phone": "425-313-8100",
+      "billing_address": {
+        "street": "999 Lake Drive",
+        "city": "Issaquah",
+        "state": "WA",
+        "zip": "98027",
+        "country": "US"
+      },
+      "payment_terms": "Net15",
+      "credit_limit_usd": 750000.00,
+      "outstanding_balance_usd": 128900.00,
+      "ytd_revenue_usd": 2187600.00,
+      "account_rep": "Malia Fonoti",
+      "created_date": "2022-05-14",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "C-006",
+      "name": "Amazon.com",
+      "customer_type": "ecommerce",
+      "status": "active",
+      "email": "vendor-central@amazon.com",
+      "phone": "206-266-1000",
+      "billing_address": {
+        "street": "410 Terry Avenue North",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98109",
+        "country": "US"
+      },
+      "payment_terms": "Net30",
+      "credit_limit_usd": 300000.00,
+      "outstanding_balance_usd": 44610.00,
+      "ytd_revenue_usd": 538900.00,
+      "account_rep": "Keoni Lau",
+      "created_date": "2021-11-08",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "C-007",
+      "name": "Pacific Beverage Distributors",
+      "customer_type": "distributor",
+      "status": "active",
+      "email": "orders@pacbevdist.com",
+      "phone": "808-533-4110",
+      "billing_address": {
+        "street": "625 Auahi Street",
+        "city": "Honolulu",
+        "state": "HI",
+        "zip": "96813",
+        "country": "US"
+      },
+      "payment_terms": "Net30",
+      "credit_limit_usd": 150000.00,
+      "outstanding_balance_usd": 18940.00,
+      "ytd_revenue_usd": 287600.00,
+      "account_rep": "Kalani Akana",
+      "created_date": "2020-02-20",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "C-008",
+      "name": "Mountain West Naturals",
+      "customer_type": "distributor",
+      "status": "active",
+      "email": "purchasing@mtnwestnaturals.com",
+      "phone": "303-741-5900",
+      "billing_address": {
+        "street": "4545 E. Dry Creek Road",
+        "city": "Centennial",
+        "state": "CO",
+        "zip": "80122",
+        "country": "US"
+      },
+      "payment_terms": "Net30",
+      "credit_limit_usd": 120000.00,
+      "outstanding_balance_usd": 22580.00,
+      "ytd_revenue_usd": 198400.00,
+      "account_rep": "Keoni Lau",
+      "created_date": "2023-04-05",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "C-009",
+      "name": "Aloha Wellness Co.",
+      "customer_type": "dtc",
+      "status": "active",
+      "email": "hello@alohawellness.com",
+      "phone": "808-445-2210",
+      "billing_address": {
+        "street": "1001 Bishop Street",
+        "city": "Honolulu",
+        "state": "HI",
+        "zip": "96813",
+        "country": "US"
+      },
+      "payment_terms": "COD",
+      "credit_limit_usd": 10000.00,
+      "outstanding_balance_usd": 0.00,
+      "ytd_revenue_usd": 14200.00,
+      "account_rep": "Keoni Lau",
+      "created_date": "2024-01-15",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "C-010",
+      "name": "Makai Life Subscriptions",
+      "customer_type": "dtc",
+      "status": "active",
+      "email": "orders@makailife.com",
+      "phone": "415-892-3344",
+      "billing_address": {
+        "street": "388 Market Street",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94111",
+        "country": "US"
+      },
+      "payment_terms": "COD",
+      "credit_limit_usd": 15000.00,
+      "outstanding_balance_usd": 0.00,
+      "ytd_revenue_usd": 31800.00,
+      "account_rep": "Keoni Lau",
+      "created_date": "2024-06-20",
+      "subsidiary": "Waiākea Inc."
+    }
+  ],
+  "items": [
+    {
+      "id": "I-101",
+      "sku": "WAI-500-24",
+      "name": "Waiākea Volcanic Water 500ml 24-Pack",
+      "category": "alkaline_water",
+      "size_ml": 500,
+      "pack_size": 24,
+      "unit_cost_usd": 0.72,
+      "unit_price_usd": 1.58,
+      "status": "active",
+      "upc": "850004598001",
+      "description": "Waiākea naturally alkaline Hawaiian volcanic water, 500ml PET bottles, case of 24. pH 8.8. Sourced from Mauna Loa volcanic aquifer."
+    },
+    {
+      "id": "I-102",
+      "sku": "WAI-1L-12",
+      "name": "Waiākea Volcanic Water 1L 12-Pack",
+      "category": "alkaline_water",
+      "size_ml": 1000,
+      "pack_size": 12,
+      "unit_cost_usd": 0.96,
+      "unit_price_usd": 2.10,
+      "status": "active",
+      "upc": "850004598018",
+      "description": "Waiākea naturally alkaline Hawaiian volcanic water, 1-liter PET bottles, case of 12. pH 8.8. Sustainably sourced."
+    },
+    {
+      "id": "I-103",
+      "sku": "WAI-700-SPORT-24",
+      "name": "Waiākea Volcanic Water 700ml Sport Cap 24-Pack",
+      "category": "alkaline_water",
+      "size_ml": 700,
+      "pack_size": 24,
+      "unit_cost_usd": 0.88,
+      "unit_price_usd": 1.92,
+      "status": "active",
+      "upc": "850004598025",
+      "description": "Waiākea naturally alkaline Hawaiian volcanic water, 700ml with sport cap, case of 24. Ideal for athletic use. pH 8.8."
+    },
+    {
+      "id": "I-104",
+      "sku": "WAI-SPARK-355-12",
+      "name": "Waiākea Sparkling Volcanic Water 355ml 12-Pack",
+      "category": "sparkling_water",
+      "size_ml": 355,
+      "pack_size": 12,
+      "unit_cost_usd": 0.84,
+      "unit_price_usd": 1.95,
+      "status": "active",
+      "upc": "850004598032",
+      "description": "Waiākea naturally sparkling Hawaiian volcanic water, 355ml aluminum cans, case of 12. Lightly carbonated, pH 7.4."
+    },
+    {
+      "id": "I-105",
+      "sku": "WAI-GAL-6",
+      "name": "Waiākea Volcanic Water 1-Gallon 6-Pack",
+      "category": "alkaline_water",
+      "size_ml": 3785,
+      "pack_size": 6,
+      "unit_cost_usd": 2.40,
+      "unit_price_usd": 5.25,
+      "status": "active",
+      "upc": "850004598049",
+      "description": "Waiākea naturally alkaline Hawaiian volcanic water, 1-gallon HDPE jugs, case of 6. pH 8.8. Bulk hydration solution."
+    },
+    {
+      "id": "I-106",
+      "sku": "WAI-GLASS-750-6",
+      "name": "Waiākea Premium Glass 750ml 6-Pack",
+      "category": "alkaline_water",
+      "size_ml": 750,
+      "pack_size": 6,
+      "unit_cost_usd": 2.85,
+      "unit_price_usd": 5.90,
+      "status": "active",
+      "upc": "850004598056",
+      "description": "Waiākea naturally alkaline Hawaiian volcanic water in premium glass bottles, 750ml, case of 6. pH 8.8. Premium gifting and hospitality SKU."
+    },
+    {
+      "id": "I-107",
+      "sku": "WAI-330-MINI-24",
+      "name": "Waiākea Volcanic Water 330ml Mini 24-Pack",
+      "category": "alkaline_water",
+      "size_ml": 330,
+      "pack_size": 24,
+      "unit_cost_usd": 0.58,
+      "unit_price_usd": 1.32,
+      "status": "active",
+      "upc": "850004598063",
+      "description": "Waiākea naturally alkaline Hawaiian volcanic water, 330ml PET mini bottles, case of 24. Perfect for single-serve hospitality and events. pH 8.8."
+    },
+    {
+      "id": "I-108",
+      "sku": "WAI-1.5L-12",
+      "name": "Waiākea Volcanic Water 1.5L 12-Pack",
+      "category": "alkaline_water",
+      "size_ml": 1500,
+      "pack_size": 12,
+      "unit_cost_usd": 1.20,
+      "unit_price_usd": 2.65,
+      "status": "active",
+      "upc": "850004598070",
+      "description": "Waiākea naturally alkaline Hawaiian volcanic water, 1.5-liter PET bottles, case of 12. pH 8.8. Family and household staple size."
+    }
+  ],
+  "inventory": [
+    {
+      "id": "INV-101-HILO",
+      "item_id": "I-101",
+      "item_name": "Waiākea Volcanic Water 500ml 24-Pack",
+      "location_id": "LOC-01",
+      "location_name": "Hilo HI Warehouse",
+      "quantity_on_hand": 4800,
+      "quantity_committed": 1200,
+      "quantity_available": 3600,
+      "quantity_on_order": 2400,
+      "reorder_point": 1500,
+      "last_updated": "2026-08-09"
+    },
+    {
+      "id": "INV-101-CARSON",
+      "item_id": "I-101",
+      "item_name": "Waiākea Volcanic Water 500ml 24-Pack",
+      "location_id": "LOC-02",
+      "location_name": "Carson CA Distribution Center",
+      "quantity_on_hand": 6200,
+      "quantity_committed": 2400,
+      "quantity_available": 3800,
+      "quantity_on_order": 4800,
+      "reorder_point": 2000,
+      "last_updated": "2026-08-09"
+    },
+    {
+      "id": "INV-102-HILO",
+      "item_id": "I-102",
+      "item_name": "Waiākea Volcanic Water 1L 12-Pack",
+      "location_id": "LOC-01",
+      "location_name": "Hilo HI Warehouse",
+      "quantity_on_hand": 2100,
+      "quantity_committed": 600,
+      "quantity_available": 1500,
+      "quantity_on_order": 1200,
+      "reorder_point": 800,
+      "last_updated": "2026-08-09"
+    },
+    {
+      "id": "INV-102-CARSON",
+      "item_id": "I-102",
+      "item_name": "Waiākea Volcanic Water 1L 12-Pack",
+      "location_id": "LOC-02",
+      "location_name": "Carson CA Distribution Center",
+      "quantity_on_hand": 3400,
+      "quantity_committed": 1100,
+      "quantity_available": 2300,
+      "quantity_on_order": 1800,
+      "reorder_point": 1000,
+      "last_updated": "2026-08-09"
+    },
+    {
+      "id": "INV-103-HILO",
+      "item_id": "I-103",
+      "item_name": "Waiākea Volcanic Water 700ml Sport Cap 24-Pack",
+      "location_id": "LOC-01",
+      "location_name": "Hilo HI Warehouse",
+      "quantity_on_hand": 980,
+      "quantity_committed": 480,
+      "quantity_available": 500,
+      "quantity_on_order": 1200,
+      "reorder_point": 600,
+      "last_updated": "2026-08-09"
+    },
+    {
+      "id": "INV-103-CARSON",
+      "item_id": "I-103",
+      "item_name": "Waiākea Volcanic Water 700ml Sport Cap 24-Pack",
+      "location_id": "LOC-02",
+      "location_name": "Carson CA Distribution Center",
+      "quantity_on_hand": 1850,
+      "quantity_committed": 720,
+      "quantity_available": 1130,
+      "quantity_on_order": 600,
+      "reorder_point": 800,
+      "last_updated": "2026-08-09"
+    },
+    {
+      "id": "INV-104-HILO",
+      "item_id": "I-104",
+      "item_name": "Waiākea Sparkling Volcanic Water 355ml 12-Pack",
+      "location_id": "LOC-01",
+      "location_name": "Hilo HI Warehouse",
+      "quantity_on_hand": 640,
+      "quantity_committed": 240,
+      "quantity_available": 400,
+      "quantity_on_order": 960,
+      "reorder_point": 400,
+      "last_updated": "2026-08-08"
+    },
+    {
+      "id": "INV-104-CARSON",
+      "item_id": "I-104",
+      "item_name": "Waiākea Sparkling Volcanic Water 355ml 12-Pack",
+      "location_id": "LOC-02",
+      "location_name": "Carson CA Distribution Center",
+      "quantity_on_hand": 1420,
+      "quantity_committed": 480,
+      "quantity_available": 940,
+      "quantity_on_order": 480,
+      "reorder_point": 600,
+      "last_updated": "2026-08-08"
+    },
+    {
+      "id": "INV-105-HILO",
+      "item_id": "I-105",
+      "item_name": "Waiākea Volcanic Water 1-Gallon 6-Pack",
+      "location_id": "LOC-01",
+      "location_name": "Hilo HI Warehouse",
+      "quantity_on_hand": 380,
+      "quantity_committed": 120,
+      "quantity_available": 260,
+      "quantity_on_order": 300,
+      "reorder_point": 200,
+      "last_updated": "2026-08-07"
+    },
+    {
+      "id": "INV-105-CARSON",
+      "item_id": "I-105",
+      "item_name": "Waiākea Volcanic Water 1-Gallon 6-Pack",
+      "location_id": "LOC-02",
+      "location_name": "Carson CA Distribution Center",
+      "quantity_on_hand": 820,
+      "quantity_committed": 360,
+      "quantity_available": 460,
+      "quantity_on_order": 240,
+      "reorder_point": 300,
+      "last_updated": "2026-08-07"
+    },
+    {
+      "id": "INV-106-HILO",
+      "item_id": "I-106",
+      "item_name": "Waiākea Premium Glass 750ml 6-Pack",
+      "location_id": "LOC-01",
+      "location_name": "Hilo HI Warehouse",
+      "quantity_on_hand": 240,
+      "quantity_committed": 60,
+      "quantity_available": 180,
+      "quantity_on_order": 120,
+      "reorder_point": 100,
+      "last_updated": "2026-08-06"
+    },
+    {
+      "id": "INV-106-CARSON",
+      "item_id": "I-106",
+      "item_name": "Waiākea Premium Glass 750ml 6-Pack",
+      "location_id": "LOC-02",
+      "location_name": "Carson CA Distribution Center",
+      "quantity_on_hand": 480,
+      "quantity_committed": 144,
+      "quantity_available": 336,
+      "quantity_on_order": 120,
+      "reorder_point": 150,
+      "last_updated": "2026-08-06"
+    },
+    {
+      "id": "INV-107-HILO",
+      "item_id": "I-107",
+      "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack",
+      "location_id": "LOC-01",
+      "location_name": "Hilo HI Warehouse",
+      "quantity_on_hand": 1600,
+      "quantity_committed": 480,
+      "quantity_available": 1120,
+      "quantity_on_order": 960,
+      "reorder_point": 500,
+      "last_updated": "2026-08-09"
+    },
+    {
+      "id": "INV-107-CARSON",
+      "item_id": "I-107",
+      "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack",
+      "location_id": "LOC-02",
+      "location_name": "Carson CA Distribution Center",
+      "quantity_on_hand": 2800,
+      "quantity_committed": 960,
+      "quantity_available": 1840,
+      "quantity_on_order": 480,
+      "reorder_point": 800,
+      "last_updated": "2026-08-09"
+    },
+    {
+      "id": "INV-108-HILO",
+      "item_id": "I-108",
+      "item_name": "Waiākea Volcanic Water 1.5L 12-Pack",
+      "location_id": "LOC-01",
+      "location_name": "Hilo HI Warehouse",
+      "quantity_on_hand": 760,
+      "quantity_committed": 360,
+      "quantity_available": 400,
+      "quantity_on_order": 600,
+      "reorder_point": 400,
+      "last_updated": "2026-08-08"
+    },
+    {
+      "id": "INV-108-CARSON",
+      "item_id": "I-108",
+      "item_name": "Waiākea Volcanic Water 1.5L 12-Pack",
+      "location_id": "LOC-02",
+      "location_name": "Carson CA Distribution Center",
+      "quantity_on_hand": 1920,
+      "quantity_committed": 600,
+      "quantity_available": 1320,
+      "quantity_on_order": 600,
+      "reorder_point": 600,
+      "last_updated": "2026-08-08"
+    }
+  ],
+  "sales_orders": [
+    {
+      "id": "SO-1001",
+      "order_number": "SO-1001",
+      "customer_id": "C-001",
+      "customer_name": "UNFI (United Natural Foods)",
+      "status": "fulfilled",
+      "created_date": "2026-07-01",
+      "ship_date": "2026-07-08",
+      "po_number": "UNFI-PO-884421",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 600, "unit_price_usd": 1.58, "amount_usd": 948.00},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity": 300, "unit_price_usd": 2.10, "amount_usd": 630.00},
+        {"item_id": "I-108", "item_name": "Waiākea Volcanic Water 1.5L 12-Pack", "quantity": 200, "unit_price_usd": 2.65, "amount_usd": 530.00}
+      ],
+      "subtotal_usd": 2108.00,
+      "tax_usd": 0.00,
+      "shipping_usd": 420.00,
+      "total_usd": 2528.00,
+      "shipping_method": "LTL Freight",
+      "account_rep": "Kalani Akana",
+      "memo": "Q3 replenishment order — Midwest region"
+    },
+    {
+      "id": "SO-1002",
+      "order_number": "SO-1002",
+      "customer_id": "C-003",
+      "customer_name": "Whole Foods Market",
+      "status": "fulfilled",
+      "created_date": "2026-07-05",
+      "ship_date": "2026-07-12",
+      "po_number": "WFM-2026-00341",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 400, "unit_price_usd": 1.58, "amount_usd": 632.00},
+        {"item_id": "I-106", "item_name": "Waiākea Premium Glass 750ml 6-Pack", "quantity": 120, "unit_price_usd": 5.90, "amount_usd": 708.00}
+      ],
+      "subtotal_usd": 1340.00,
+      "tax_usd": 0.00,
+      "shipping_usd": 280.00,
+      "total_usd": 1620.00,
+      "shipping_method": "LTL Freight",
+      "account_rep": "Malia Fonoti",
+      "memo": "Summer promo set — glass SKU display"
+    },
+    {
+      "id": "SO-1003",
+      "order_number": "SO-1003",
+      "customer_id": "C-005",
+      "customer_name": "Costco Wholesale",
+      "status": "fulfilled",
+      "created_date": "2026-07-08",
+      "ship_date": "2026-07-18",
+      "po_number": "COST-P98842",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 2400, "unit_price_usd": 1.48, "amount_usd": 3552.00},
+        {"item_id": "I-103", "item_name": "Waiākea Volcanic Water 700ml Sport Cap 24-Pack", "quantity": 600, "unit_price_usd": 1.85, "amount_usd": 1110.00}
+      ],
+      "subtotal_usd": 4662.00,
+      "tax_usd": 0.00,
+      "shipping_usd": 860.00,
+      "total_usd": 5522.00,
+      "shipping_method": "Full Truckload",
+      "account_rep": "Malia Fonoti",
+      "memo": "Costco national reset — Q3 floor plan"
+    },
+    {
+      "id": "SO-1004",
+      "order_number": "SO-1004",
+      "customer_id": "C-002",
+      "customer_name": "KeHE Distributors",
+      "status": "partially_fulfilled",
+      "created_date": "2026-07-15",
+      "ship_date": "2026-07-28",
+      "po_number": "KEHE-7712039",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 480, "unit_price_usd": 1.58, "amount_usd": 758.40},
+        {"item_id": "I-104", "item_name": "Waiākea Sparkling Volcanic Water 355ml 12-Pack", "quantity": 240, "unit_price_usd": 1.95, "amount_usd": 468.00},
+        {"item_id": "I-107", "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack", "quantity": 180, "unit_price_usd": 1.32, "amount_usd": 237.60}
+      ],
+      "subtotal_usd": 1464.00,
+      "tax_usd": 0.00,
+      "shipping_usd": 310.00,
+      "total_usd": 1774.00,
+      "shipping_method": "LTL Freight",
+      "account_rep": "Kalani Akana",
+      "memo": "Southeast region restock — sparkling and mini getting traction"
+    },
+    {
+      "id": "SO-1005",
+      "order_number": "SO-1005",
+      "customer_id": "C-004",
+      "customer_name": "Target Corporation",
+      "status": "approved",
+      "created_date": "2026-07-20",
+      "ship_date": "2026-08-05",
+      "po_number": "TGT-BEV-20260720",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 800, "unit_price_usd": 1.55, "amount_usd": 1240.00},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity": 400, "unit_price_usd": 2.05, "amount_usd": 820.00}
+      ],
+      "subtotal_usd": 2060.00,
+      "tax_usd": 0.00,
+      "shipping_usd": 390.00,
+      "total_usd": 2450.00,
+      "shipping_method": "LTL Freight",
+      "account_rep": "Malia Fonoti",
+      "memo": "Target Q3 planogram reset — Pacific and Southwest stores"
+    },
+    {
+      "id": "SO-1006",
+      "order_number": "SO-1006",
+      "customer_id": "C-006",
+      "customer_name": "Amazon.com",
+      "status": "fulfilled",
+      "created_date": "2026-07-22",
+      "ship_date": "2026-07-26",
+      "po_number": "AMZ-FC-20260722",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 240, "unit_price_usd": 1.62, "amount_usd": 388.80},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity": 120, "unit_price_usd": 2.15, "amount_usd": 258.00},
+        {"item_id": "I-106", "item_name": "Waiākea Premium Glass 750ml 6-Pack", "quantity": 60, "unit_price_usd": 5.95, "amount_usd": 357.00}
+      ],
+      "subtotal_usd": 1003.80,
+      "tax_usd": 0.00,
+      "shipping_usd": 0.00,
+      "total_usd": 1003.80,
+      "shipping_method": "Amazon Logistics",
+      "account_rep": "Keoni Lau",
+      "memo": "FBA replenishment — SNA1 and ONT8 fulfillment centers"
+    },
+    {
+      "id": "SO-1007",
+      "order_number": "SO-1007",
+      "customer_id": "C-007",
+      "customer_name": "Pacific Beverage Distributors",
+      "status": "fulfilled",
+      "created_date": "2026-07-25",
+      "ship_date": "2026-07-29",
+      "po_number": "PBD-1102",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 240, "unit_price_usd": 1.58, "amount_usd": 379.20},
+        {"item_id": "I-107", "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack", "quantity": 120, "unit_price_usd": 1.32, "amount_usd": 158.40},
+        {"item_id": "I-105", "item_name": "Waiākea Volcanic Water 1-Gallon 6-Pack", "quantity": 60, "unit_price_usd": 5.25, "amount_usd": 315.00}
+      ],
+      "subtotal_usd": 852.60,
+      "tax_usd": 0.00,
+      "shipping_usd": 95.00,
+      "total_usd": 947.60,
+      "shipping_method": "Ground Freight",
+      "account_rep": "Kalani Akana",
+      "memo": "Hawaii hotel and resort channel restock"
+    },
+    {
+      "id": "SO-1008",
+      "order_number": "SO-1008",
+      "customer_id": "C-001",
+      "customer_name": "UNFI (United Natural Foods)",
+      "status": "approved",
+      "created_date": "2026-07-28",
+      "ship_date": "2026-08-10",
+      "po_number": "UNFI-PO-891003",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 720, "unit_price_usd": 1.58, "amount_usd": 1137.60},
+        {"item_id": "I-103", "item_name": "Waiākea Volcanic Water 700ml Sport Cap 24-Pack", "quantity": 360, "unit_price_usd": 1.92, "amount_usd": 691.20},
+        {"item_id": "I-108", "item_name": "Waiākea Volcanic Water 1.5L 12-Pack", "quantity": 240, "unit_price_usd": 2.65, "amount_usd": 636.00}
+      ],
+      "subtotal_usd": 2464.80,
+      "tax_usd": 0.00,
+      "shipping_usd": 490.00,
+      "total_usd": 2954.80,
+      "shipping_method": "LTL Freight",
+      "account_rep": "Kalani Akana",
+      "memo": "Late summer push — UNFI Northeast DC"
+    },
+    {
+      "id": "SO-1009",
+      "order_number": "SO-1009",
+      "customer_id": "C-010",
+      "customer_name": "Makai Life Subscriptions",
+      "status": "fulfilled",
+      "created_date": "2026-08-01",
+      "ship_date": "2026-08-03",
+      "po_number": "MKL-AUG-001",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 24, "unit_price_usd": 1.75, "amount_usd": 42.00},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity": 12, "unit_price_usd": 2.30, "amount_usd": 27.60}
+      ],
+      "subtotal_usd": 69.60,
+      "tax_usd": 5.75,
+      "shipping_usd": 12.50,
+      "total_usd": 87.85,
+      "shipping_method": "UPS Ground",
+      "account_rep": "Keoni Lau",
+      "memo": "August DTC subscription box fulfillment"
+    },
+    {
+      "id": "SO-1010",
+      "order_number": "SO-1010",
+      "customer_id": "C-008",
+      "customer_name": "Mountain West Naturals",
+      "status": "pending_approval",
+      "created_date": "2026-08-04",
+      "ship_date": "2026-08-18",
+      "po_number": "MWN-20260804",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 360, "unit_price_usd": 1.58, "amount_usd": 568.80},
+        {"item_id": "I-104", "item_name": "Waiākea Sparkling Volcanic Water 355ml 12-Pack", "quantity": 180, "unit_price_usd": 1.95, "amount_usd": 351.00}
+      ],
+      "subtotal_usd": 919.80,
+      "tax_usd": 0.00,
+      "shipping_usd": 195.00,
+      "total_usd": 1114.80,
+      "shipping_method": "LTL Freight",
+      "account_rep": "Keoni Lau",
+      "memo": "Mountain West natural grocery chain rollout"
+    },
+    {
+      "id": "SO-1011",
+      "order_number": "SO-1011",
+      "customer_id": "C-009",
+      "customer_name": "Aloha Wellness Co.",
+      "status": "fulfilled",
+      "created_date": "2026-08-05",
+      "ship_date": "2026-08-07",
+      "po_number": "AWC-081",
+      "line_items": [
+        {"item_id": "I-106", "item_name": "Waiākea Premium Glass 750ml 6-Pack", "quantity": 24, "unit_price_usd": 5.90, "amount_usd": 141.60},
+        {"item_id": "I-107", "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack", "quantity": 12, "unit_price_usd": 1.32, "amount_usd": 15.84}
+      ],
+      "subtotal_usd": 157.44,
+      "tax_usd": 13.01,
+      "shipping_usd": 18.00,
+      "total_usd": 188.45,
+      "shipping_method": "FedEx Express",
+      "account_rep": "Keoni Lau",
+      "memo": "Wellness retreat event order — Waikiki"
+    },
+    {
+      "id": "SO-1012",
+      "order_number": "SO-1012",
+      "customer_id": "C-005",
+      "customer_name": "Costco Wholesale",
+      "status": "pending_approval",
+      "created_date": "2026-08-07",
+      "ship_date": "2026-08-25",
+      "po_number": "COST-P99104",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 3000, "unit_price_usd": 1.48, "amount_usd": 4440.00},
+        {"item_id": "I-108", "item_name": "Waiākea Volcanic Water 1.5L 12-Pack", "quantity": 600, "unit_price_usd": 2.60, "amount_usd": 1560.00}
+      ],
+      "subtotal_usd": 6000.00,
+      "tax_usd": 0.00,
+      "shipping_usd": 1100.00,
+      "total_usd": 7100.00,
+      "shipping_method": "Full Truckload",
+      "account_rep": "Malia Fonoti",
+      "memo": "Costco Q4 early buy — national warehouse rollout"
+    }
+  ],
+  "invoices": [
+    {
+      "id": "INV-2001",
+      "invoice_number": "INV-2001",
+      "customer_id": "C-001",
+      "customer_name": "UNFI (United Natural Foods)",
+      "sales_order_id": "SO-1001",
+      "status": "paid",
+      "created_date": "2026-07-08",
+      "due_date": "2026-08-07",
+      "paid_date": "2026-08-01",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 600, "unit_price_usd": 1.58, "amount_usd": 948.00},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity": 300, "unit_price_usd": 2.10, "amount_usd": 630.00},
+        {"item_id": "I-108", "item_name": "Waiākea Volcanic Water 1.5L 12-Pack", "quantity": 200, "unit_price_usd": 2.65, "amount_usd": 530.00}
+      ],
+      "subtotal_usd": 2108.00,
+      "tax_usd": 0.00,
+      "total_usd": 2528.00,
+      "amount_paid_usd": 2528.00,
+      "amount_due_usd": 0.00,
+      "payment_terms": "Net30",
+      "memo": "SO-1001 — Q3 replenishment order"
+    },
+    {
+      "id": "INV-2002",
+      "invoice_number": "INV-2002",
+      "customer_id": "C-003",
+      "customer_name": "Whole Foods Market",
+      "sales_order_id": "SO-1002",
+      "status": "paid",
+      "created_date": "2026-07-12",
+      "due_date": "2026-08-11",
+      "paid_date": "2026-08-05",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 400, "unit_price_usd": 1.58, "amount_usd": 632.00},
+        {"item_id": "I-106", "item_name": "Waiākea Premium Glass 750ml 6-Pack", "quantity": 120, "unit_price_usd": 5.90, "amount_usd": 708.00}
+      ],
+      "subtotal_usd": 1340.00,
+      "tax_usd": 0.00,
+      "total_usd": 1620.00,
+      "amount_paid_usd": 1620.00,
+      "amount_due_usd": 0.00,
+      "payment_terms": "Net30",
+      "memo": "SO-1002 — summer promo set"
+    },
+    {
+      "id": "INV-2003",
+      "invoice_number": "INV-2003",
+      "customer_id": "C-005",
+      "customer_name": "Costco Wholesale",
+      "sales_order_id": "SO-1003",
+      "status": "open",
+      "created_date": "2026-07-18",
+      "due_date": "2026-08-02",
+      "paid_date": null,
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 2400, "unit_price_usd": 1.48, "amount_usd": 3552.00},
+        {"item_id": "I-103", "item_name": "Waiākea Volcanic Water 700ml Sport Cap 24-Pack", "quantity": 600, "unit_price_usd": 1.85, "amount_usd": 1110.00}
+      ],
+      "subtotal_usd": 4662.00,
+      "tax_usd": 0.00,
+      "total_usd": 5522.00,
+      "amount_paid_usd": 0.00,
+      "amount_due_usd": 5522.00,
+      "payment_terms": "Net15",
+      "memo": "SO-1003 — Costco national reset"
+    },
+    {
+      "id": "INV-2004",
+      "invoice_number": "INV-2004",
+      "customer_id": "C-002",
+      "customer_name": "KeHE Distributors",
+      "sales_order_id": "SO-1004",
+      "status": "partially_paid",
+      "created_date": "2026-07-28",
+      "due_date": "2026-08-27",
+      "paid_date": null,
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 480, "unit_price_usd": 1.58, "amount_usd": 758.40},
+        {"item_id": "I-104", "item_name": "Waiākea Sparkling Volcanic Water 355ml 12-Pack", "quantity": 240, "unit_price_usd": 1.95, "amount_usd": 468.00},
+        {"item_id": "I-107", "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack", "quantity": 180, "unit_price_usd": 1.32, "amount_usd": 237.60}
+      ],
+      "subtotal_usd": 1464.00,
+      "tax_usd": 0.00,
+      "total_usd": 1774.00,
+      "amount_paid_usd": 887.00,
+      "amount_due_usd": 887.00,
+      "payment_terms": "Net30",
+      "memo": "SO-1004 — partial shipment invoiced; balance on final delivery"
+    },
+    {
+      "id": "INV-2005",
+      "invoice_number": "INV-2005",
+      "customer_id": "C-006",
+      "customer_name": "Amazon.com",
+      "sales_order_id": "SO-1006",
+      "status": "open",
+      "created_date": "2026-07-26",
+      "due_date": "2026-08-25",
+      "paid_date": null,
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 240, "unit_price_usd": 1.62, "amount_usd": 388.80},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity": 120, "unit_price_usd": 2.15, "amount_usd": 258.00},
+        {"item_id": "I-106", "item_name": "Waiākea Premium Glass 750ml 6-Pack", "quantity": 60, "unit_price_usd": 5.95, "amount_usd": 357.00}
+      ],
+      "subtotal_usd": 1003.80,
+      "tax_usd": 0.00,
+      "total_usd": 1003.80,
+      "amount_paid_usd": 0.00,
+      "amount_due_usd": 1003.80,
+      "payment_terms": "Net30",
+      "memo": "SO-1006 — FBA replenishment"
+    },
+    {
+      "id": "INV-2006",
+      "invoice_number": "INV-2006",
+      "customer_id": "C-007",
+      "customer_name": "Pacific Beverage Distributors",
+      "sales_order_id": "SO-1007",
+      "status": "open",
+      "created_date": "2026-07-29",
+      "due_date": "2026-08-28",
+      "paid_date": null,
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 240, "unit_price_usd": 1.58, "amount_usd": 379.20},
+        {"item_id": "I-107", "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack", "quantity": 120, "unit_price_usd": 1.32, "amount_usd": 158.40},
+        {"item_id": "I-105", "item_name": "Waiākea Volcanic Water 1-Gallon 6-Pack", "quantity": 60, "unit_price_usd": 5.25, "amount_usd": 315.00}
+      ],
+      "subtotal_usd": 852.60,
+      "tax_usd": 0.00,
+      "total_usd": 947.60,
+      "amount_paid_usd": 0.00,
+      "amount_due_usd": 947.60,
+      "payment_terms": "Net30",
+      "memo": "SO-1007 — Hawaii hotel channel"
+    },
+    {
+      "id": "INV-2007",
+      "invoice_number": "INV-2007",
+      "customer_id": "C-010",
+      "customer_name": "Makai Life Subscriptions",
+      "sales_order_id": "SO-1009",
+      "status": "paid",
+      "created_date": "2026-08-03",
+      "due_date": "2026-08-03",
+      "paid_date": "2026-08-03",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 24, "unit_price_usd": 1.75, "amount_usd": 42.00},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity": 12, "unit_price_usd": 2.30, "amount_usd": 27.60}
+      ],
+      "subtotal_usd": 69.60,
+      "tax_usd": 5.75,
+      "total_usd": 87.85,
+      "amount_paid_usd": 87.85,
+      "amount_due_usd": 0.00,
+      "payment_terms": "COD",
+      "memo": "SO-1009 — DTC subscription auto-pay"
+    },
+    {
+      "id": "INV-2008",
+      "invoice_number": "INV-2008",
+      "customer_id": "C-009",
+      "customer_name": "Aloha Wellness Co.",
+      "sales_order_id": "SO-1011",
+      "status": "paid",
+      "created_date": "2026-08-07",
+      "due_date": "2026-08-07",
+      "paid_date": "2026-08-07",
+      "line_items": [
+        {"item_id": "I-106", "item_name": "Waiākea Premium Glass 750ml 6-Pack", "quantity": 24, "unit_price_usd": 5.90, "amount_usd": 141.60},
+        {"item_id": "I-107", "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack", "quantity": 12, "unit_price_usd": 1.32, "amount_usd": 15.84}
+      ],
+      "subtotal_usd": 157.44,
+      "tax_usd": 13.01,
+      "total_usd": 188.45,
+      "amount_paid_usd": 188.45,
+      "amount_due_usd": 0.00,
+      "payment_terms": "COD",
+      "memo": "SO-1011 — Wellness retreat event"
+    },
+    {
+      "id": "INV-2009",
+      "invoice_number": "INV-2009",
+      "customer_id": "C-005",
+      "customer_name": "Costco Wholesale",
+      "sales_order_id": "SO-1003",
+      "status": "overdue",
+      "created_date": "2026-06-20",
+      "due_date": "2026-07-05",
+      "paid_date": null,
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 1800, "unit_price_usd": 1.48, "amount_usd": 2664.00},
+        {"item_id": "I-103", "item_name": "Waiākea Volcanic Water 700ml Sport Cap 24-Pack", "quantity": 480, "unit_price_usd": 1.85, "amount_usd": 888.00}
+      ],
+      "subtotal_usd": 3552.00,
+      "tax_usd": 0.00,
+      "total_usd": 4242.00,
+      "amount_paid_usd": 0.00,
+      "amount_due_usd": 4242.00,
+      "payment_terms": "Net15",
+      "memo": "Prior Costco buy — past due, follow up with buyer"
+    },
+    {
+      "id": "INV-2010",
+      "invoice_number": "INV-2010",
+      "customer_id": "C-004",
+      "customer_name": "Target Corporation",
+      "sales_order_id": "SO-1005",
+      "status": "open",
+      "created_date": "2026-08-05",
+      "due_date": "2026-09-04",
+      "paid_date": null,
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 800, "unit_price_usd": 1.55, "amount_usd": 1240.00},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity": 400, "unit_price_usd": 2.05, "amount_usd": 820.00}
+      ],
+      "subtotal_usd": 2060.00,
+      "tax_usd": 0.00,
+      "total_usd": 2450.00,
+      "amount_paid_usd": 0.00,
+      "amount_due_usd": 2450.00,
+      "payment_terms": "Net30",
+      "memo": "SO-1005 — Target Q3 planogram reset"
+    }
+  ],
+  "purchase_orders": [
+    {
+      "id": "PO-3001",
+      "po_number": "PO-3001",
+      "vendor_id": "V-001",
+      "vendor_name": "Waiākea Spring Source LLC",
+      "status": "received",
+      "created_date": "2026-06-15",
+      "expected_date": "2026-07-01",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 4800, "unit_cost_usd": 0.72, "amount_usd": 3456.00},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity": 2400, "unit_cost_usd": 0.96, "amount_usd": 2304.00},
+        {"item_id": "I-108", "item_name": "Waiākea Volcanic Water 1.5L 12-Pack", "quantity": 1200, "unit_cost_usd": 1.20, "amount_usd": 1440.00}
+      ],
+      "total_usd": 7200.00,
+      "memo": "Q3 sourcing buy — Hilo spring draw"
+    },
+    {
+      "id": "PO-3002",
+      "po_number": "PO-3002",
+      "vendor_id": "V-002",
+      "vendor_name": "Pacific Coast Packaging Co",
+      "status": "received",
+      "created_date": "2026-06-20",
+      "expected_date": "2026-07-10",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 6000, "unit_cost_usd": 0.18, "amount_usd": 1080.00},
+        {"item_id": "I-103", "item_name": "Waiākea Volcanic Water 700ml Sport Cap 24-Pack", "quantity": 2400, "unit_cost_usd": 0.22, "amount_usd": 528.00},
+        {"item_id": "I-104", "item_name": "Waiākea Sparkling Volcanic Water 355ml 12-Pack", "quantity": 2400, "unit_cost_usd": 0.20, "amount_usd": 480.00}
+      ],
+      "total_usd": 2088.00,
+      "memo": "PET bottles and cans — summer run"
+    },
+    {
+      "id": "PO-3003",
+      "po_number": "PO-3003",
+      "vendor_id": "V-003",
+      "vendor_name": "Freight Forward Inc",
+      "status": "closed",
+      "created_date": "2026-07-01",
+      "expected_date": "2026-07-15",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 3000, "unit_cost_usd": 0.08, "amount_usd": 240.00},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity": 1800, "unit_cost_usd": 0.10, "amount_usd": 180.00}
+      ],
+      "total_usd": 420.00,
+      "memo": "Hilo to Carson DC intermodal freight — July run"
+    },
+    {
+      "id": "PO-3004",
+      "po_number": "PO-3004",
+      "vendor_id": "V-001",
+      "vendor_name": "Waiākea Spring Source LLC",
+      "status": "open",
+      "created_date": "2026-07-25",
+      "expected_date": "2026-08-15",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 7200, "unit_cost_usd": 0.72, "amount_usd": 5184.00},
+        {"item_id": "I-103", "item_name": "Waiākea Volcanic Water 700ml Sport Cap 24-Pack", "quantity": 2400, "unit_cost_usd": 0.88, "amount_usd": 2112.00},
+        {"item_id": "I-107", "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack", "quantity": 2400, "unit_cost_usd": 0.58, "amount_usd": 1392.00}
+      ],
+      "total_usd": 8688.00,
+      "memo": "Q4 early buy — pre-holiday build"
+    },
+    {
+      "id": "PO-3005",
+      "po_number": "PO-3005",
+      "vendor_id": "V-002",
+      "vendor_name": "Pacific Coast Packaging Co",
+      "status": "open",
+      "created_date": "2026-07-28",
+      "expected_date": "2026-08-20",
+      "line_items": [
+        {"item_id": "I-106", "item_name": "Waiākea Premium Glass 750ml 6-Pack", "quantity": 600, "unit_cost_usd": 0.95, "amount_usd": 570.00},
+        {"item_id": "I-105", "item_name": "Waiākea Volcanic Water 1-Gallon 6-Pack", "quantity": 480, "unit_cost_usd": 0.55, "amount_usd": 264.00}
+      ],
+      "total_usd": 834.00,
+      "memo": "Glass bottles and gallon jugs reorder"
+    },
+    {
+      "id": "PO-3006",
+      "po_number": "PO-3006",
+      "vendor_id": "V-003",
+      "vendor_name": "Freight Forward Inc",
+      "status": "partially_received",
+      "created_date": "2026-08-01",
+      "expected_date": "2026-08-12",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity": 4800, "unit_cost_usd": 0.08, "amount_usd": 384.00},
+        {"item_id": "I-108", "item_name": "Waiākea Volcanic Water 1.5L 12-Pack", "quantity": 1200, "unit_cost_usd": 0.10, "amount_usd": 120.00}
+      ],
+      "total_usd": 504.00,
+      "memo": "Hilo to Carson DC — August freight run (2 of 2 loads pending)"
+    }
+  ],
+  "vendors": [
+    {
+      "id": "V-001",
+      "name": "Waiākea Spring Source LLC",
+      "vendor_type": "supplier",
+      "status": "active",
+      "email": "supply@waiakeasource.com",
+      "phone": "808-935-4400",
+      "payment_terms": "Net30",
+      "outstanding_balance_usd": 8688.00,
+      "ytd_purchases_usd": 18340.00
+    },
+    {
+      "id": "V-002",
+      "name": "Pacific Coast Packaging Co",
+      "vendor_type": "co-packer",
+      "status": "active",
+      "email": "orders@pcpackaging.com",
+      "phone": "510-441-9300",
+      "payment_terms": "Net30",
+      "outstanding_balance_usd": 834.00,
+      "ytd_purchases_usd": 6210.00
+    },
+    {
+      "id": "V-003",
+      "name": "Freight Forward Inc",
+      "vendor_type": "logistics",
+      "status": "active",
+      "email": "dispatch@freightforward.com",
+      "phone": "213-748-5520",
+      "payment_terms": "Net15",
+      "outstanding_balance_usd": 504.00,
+      "ytd_purchases_usd": 3480.00
+    },
+    {
+      "id": "V-004",
+      "name": "Aloha Label & Print Co",
+      "vendor_type": "co-packer",
+      "status": "active",
+      "email": "production@alohalabel.com",
+      "phone": "808-329-7760",
+      "payment_terms": "Net30",
+      "outstanding_balance_usd": 0.00,
+      "ytd_purchases_usd": 1950.00
+    }
+  ],
+  "item_fulfillments": [
+    {
+      "id": "IF-4001",
+      "fulfillment_number": "IF-4001",
+      "sales_order_id": "SO-1001",
+      "customer_name": "UNFI (United Natural Foods)",
+      "status": "delivered",
+      "created_date": "2026-07-06",
+      "ship_date": "2026-07-08",
+      "carrier": "Old Dominion Freight Line",
+      "tracking_number": "OD1188234421",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity_fulfilled": 600},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity_fulfilled": 300},
+        {"item_id": "I-108", "item_name": "Waiākea Volcanic Water 1.5L 12-Pack", "quantity_fulfilled": 200}
+      ],
+      "warehouse_location": "Carson CA Distribution Center"
+    },
+    {
+      "id": "IF-4002",
+      "fulfillment_number": "IF-4002",
+      "sales_order_id": "SO-1002",
+      "customer_name": "Whole Foods Market",
+      "status": "delivered",
+      "created_date": "2026-07-10",
+      "ship_date": "2026-07-12",
+      "carrier": "XPO Logistics",
+      "tracking_number": "XPO9922834410",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity_fulfilled": 400},
+        {"item_id": "I-106", "item_name": "Waiākea Premium Glass 750ml 6-Pack", "quantity_fulfilled": 120}
+      ],
+      "warehouse_location": "Carson CA Distribution Center"
+    },
+    {
+      "id": "IF-4003",
+      "fulfillment_number": "IF-4003",
+      "sales_order_id": "SO-1003",
+      "customer_name": "Costco Wholesale",
+      "status": "delivered",
+      "created_date": "2026-07-15",
+      "ship_date": "2026-07-18",
+      "carrier": "Werner Enterprises",
+      "tracking_number": "WE5510029281",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity_fulfilled": 2400},
+        {"item_id": "I-103", "item_name": "Waiākea Volcanic Water 700ml Sport Cap 24-Pack", "quantity_fulfilled": 600}
+      ],
+      "warehouse_location": "Carson CA Distribution Center"
+    },
+    {
+      "id": "IF-4004",
+      "fulfillment_number": "IF-4004",
+      "sales_order_id": "SO-1004",
+      "customer_name": "KeHE Distributors",
+      "status": "shipped",
+      "created_date": "2026-07-26",
+      "ship_date": "2026-07-28",
+      "carrier": "Saia LTL Freight",
+      "tracking_number": "SAIA4410038821",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity_fulfilled": 480},
+        {"item_id": "I-104", "item_name": "Waiākea Sparkling Volcanic Water 355ml 12-Pack", "quantity_fulfilled": 120}
+      ],
+      "warehouse_location": "Carson CA Distribution Center"
+    },
+    {
+      "id": "IF-4005",
+      "fulfillment_number": "IF-4005",
+      "sales_order_id": "SO-1006",
+      "customer_name": "Amazon.com",
+      "status": "delivered",
+      "created_date": "2026-07-23",
+      "ship_date": "2026-07-26",
+      "carrier": "Amazon Logistics",
+      "tracking_number": "TBA123456789000",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity_fulfilled": 240},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity_fulfilled": 120},
+        {"item_id": "I-106", "item_name": "Waiākea Premium Glass 750ml 6-Pack", "quantity_fulfilled": 60}
+      ],
+      "warehouse_location": "Carson CA Distribution Center"
+    },
+    {
+      "id": "IF-4006",
+      "fulfillment_number": "IF-4006",
+      "sales_order_id": "SO-1007",
+      "customer_name": "Pacific Beverage Distributors",
+      "status": "delivered",
+      "created_date": "2026-07-28",
+      "ship_date": "2026-07-29",
+      "carrier": "Young Brothers",
+      "tracking_number": "YB0088124400",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity_fulfilled": 240},
+        {"item_id": "I-107", "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack", "quantity_fulfilled": 120},
+        {"item_id": "I-105", "item_name": "Waiākea Volcanic Water 1-Gallon 6-Pack", "quantity_fulfilled": 60}
+      ],
+      "warehouse_location": "Hilo HI Warehouse"
+    },
+    {
+      "id": "IF-4007",
+      "fulfillment_number": "IF-4007",
+      "sales_order_id": "SO-1009",
+      "customer_name": "Makai Life Subscriptions",
+      "status": "delivered",
+      "created_date": "2026-08-02",
+      "ship_date": "2026-08-03",
+      "carrier": "UPS",
+      "tracking_number": "1Z9W8410A844882001",
+      "line_items": [
+        {"item_id": "I-101", "item_name": "Waiākea Volcanic Water 500ml 24-Pack", "quantity_fulfilled": 24},
+        {"item_id": "I-102", "item_name": "Waiākea Volcanic Water 1L 12-Pack", "quantity_fulfilled": 12}
+      ],
+      "warehouse_location": "Carson CA Distribution Center"
+    },
+    {
+      "id": "IF-4008",
+      "fulfillment_number": "IF-4008",
+      "sales_order_id": "SO-1011",
+      "customer_name": "Aloha Wellness Co.",
+      "status": "delivered",
+      "created_date": "2026-08-06",
+      "ship_date": "2026-08-07",
+      "carrier": "FedEx",
+      "tracking_number": "7748201049381001",
+      "line_items": [
+        {"item_id": "I-106", "item_name": "Waiākea Premium Glass 750ml 6-Pack", "quantity_fulfilled": 24},
+        {"item_id": "I-107", "item_name": "Waiākea Volcanic Water 330ml Mini 24-Pack", "quantity_fulfilled": 12}
+      ],
+      "warehouse_location": "Hilo HI Warehouse"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "TXN-5001",
+      "transaction_type": "invoice",
+      "date": "2026-07-08",
+      "account": "Accounts Receivable",
+      "debit_usd": 2528.00,
+      "credit_usd": 0.00,
+      "memo": "Invoice INV-2001 — UNFI SO-1001",
+      "related_record_id": "INV-2001",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "TXN-5002",
+      "transaction_type": "payment",
+      "date": "2026-08-01",
+      "account": "Accounts Receivable",
+      "debit_usd": 0.00,
+      "credit_usd": 2528.00,
+      "memo": "Payment received — UNFI INV-2001",
+      "related_record_id": "INV-2001",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "TXN-5003",
+      "transaction_type": "invoice",
+      "date": "2026-07-18",
+      "account": "Accounts Receivable",
+      "debit_usd": 5522.00,
+      "credit_usd": 0.00,
+      "memo": "Invoice INV-2003 — Costco SO-1003",
+      "related_record_id": "INV-2003",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "TXN-5004",
+      "transaction_type": "invoice",
+      "date": "2026-07-26",
+      "account": "Accounts Receivable",
+      "debit_usd": 1003.80,
+      "credit_usd": 0.00,
+      "memo": "Invoice INV-2005 — Amazon SO-1006",
+      "related_record_id": "INV-2005",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "TXN-5005",
+      "transaction_type": "payment",
+      "date": "2026-08-05",
+      "account": "Accounts Receivable",
+      "debit_usd": 0.00,
+      "credit_usd": 1620.00,
+      "memo": "Payment received — Whole Foods INV-2002",
+      "related_record_id": "INV-2002",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "TXN-5006",
+      "transaction_type": "credit_memo",
+      "date": "2026-07-22",
+      "account": "Accounts Receivable",
+      "debit_usd": 0.00,
+      "credit_usd": 158.40,
+      "memo": "Credit memo — KeHE INV-2004 damaged goods adjustment (12 cases 500ml)",
+      "related_record_id": "INV-2004",
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "TXN-5007",
+      "transaction_type": "journal_entry",
+      "date": "2026-07-31",
+      "account": "Cost of Goods Sold",
+      "debit_usd": 12480.00,
+      "credit_usd": 0.00,
+      "memo": "July COGS recognition — fulfilled orders SO-1001 through SO-1007",
+      "related_record_id": null,
+      "subsidiary": "Waiākea Inc."
+    },
+    {
+      "id": "TXN-5008",
+      "transaction_type": "payment",
+      "date": "2026-08-07",
+      "account": "Accounts Payable",
+      "debit_usd": 7200.00,
+      "credit_usd": 0.00,
+      "memo": "Payment to Waiākea Spring Source LLC — PO-3001",
+      "related_record_id": "PO-3001",
+      "subsidiary": "Waiākea Inc."
+    }
+  ],
+  "subsidiaries": [
+    {
+      "id": "SUB-01",
+      "name": "Waiākea Inc.",
+      "currency": "USD",
+      "fiscal_year_start": "January",
+      "country": "US",
+      "state": "HI",
+      "address": {
+        "street": "75-5706 Hanama Place, Suite 108",
+        "city": "Kailua-Kona",
+        "state": "HI",
+        "zip": "96740",
+        "country": "US"
+      }
+    }
+  ]
+}

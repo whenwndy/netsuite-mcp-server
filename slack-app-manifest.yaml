@@ -1,0 +1,8 @@
+display_information:
+  name: NetSuite (Mock)
+  description: Mock NetSuite ERP for Waiākea exposing customers, inventory, orders, invoices, and financials to Slack AI
+
+settings:
+  org_deploy_enabled: false
+  socket_mode_enabled: false
+  token_rotation_enabled: false
