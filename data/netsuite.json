@@ -15,12 +15,12 @@
         "country": "US"
       },
       "payment_terms": "Net60",
-      "credit_limit_usd": 750000.00,
-      "outstanding_balance_usd": 214830.00,
-      "ytd_revenue_usd": 1182500.00,
+      "credit_limit_usd": 750000.0,
+      "outstanding_balance_usd": 214830.0,
+      "ytd_revenue_usd": 1182500.0,
       "account_rep": "James Whitfield",
       "created_date": "2022-02-10",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "C-002",
@@ -37,12 +37,12 @@
         "country": "US"
       },
       "payment_terms": "Net30",
-      "credit_limit_usd": 400000.00,
-      "outstanding_balance_usd": 67400.00,
-      "ytd_revenue_usd": 534200.00,
+      "credit_limit_usd": 400000.0,
+      "outstanding_balance_usd": 67400.0,
+      "ytd_revenue_usd": 534200.0,
       "account_rep": "James Whitfield",
       "created_date": "2022-09-01",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "C-003",
@@ -59,12 +59,12 @@
         "country": "US"
       },
       "payment_terms": "Net30",
-      "credit_limit_usd": 150000.00,
-      "outstanding_balance_usd": 38900.00,
-      "ytd_revenue_usd": 287600.00,
+      "credit_limit_usd": 150000.0,
+      "outstanding_balance_usd": 38900.0,
+      "ytd_revenue_usd": 287600.0,
       "account_rep": "Sarah Connelly",
       "created_date": "2023-03-14",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "C-004",
@@ -81,12 +81,12 @@
         "country": "US"
       },
       "payment_terms": "Net30",
-      "credit_limit_usd": 120000.00,
-      "outstanding_balance_usd": 22750.00,
-      "ytd_revenue_usd": 198400.00,
+      "credit_limit_usd": 120000.0,
+      "outstanding_balance_usd": 22750.0,
+      "ytd_revenue_usd": 198400.0,
       "account_rep": "Sarah Connelly",
       "created_date": "2023-06-22",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "C-005",
@@ -103,12 +103,12 @@
         "country": "US"
       },
       "payment_terms": "Net30",
-      "credit_limit_usd": 200000.00,
-      "outstanding_balance_usd": 91200.00,
-      "ytd_revenue_usd": 412800.00,
+      "credit_limit_usd": 200000.0,
+      "outstanding_balance_usd": 91200.0,
+      "ytd_revenue_usd": 412800.0,
       "account_rep": "Sarah Connelly",
       "created_date": "2022-11-08",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "C-006",
@@ -125,12 +125,12 @@
         "country": "CA"
       },
       "payment_terms": "Net60",
-      "credit_limit_usd": 1200000.00,
-      "outstanding_balance_usd": 487500.00,
-      "ytd_revenue_usd": 2340000.00,
+      "credit_limit_usd": 1200000.0,
+      "outstanding_balance_usd": 487500.0,
+      "ytd_revenue_usd": 2340000.0,
       "account_rep": "James Whitfield",
       "created_date": "2021-08-15",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "C-007",
@@ -147,12 +147,12 @@
         "country": "US"
       },
       "payment_terms": "Net60",
-      "credit_limit_usd": 1500000.00,
-      "outstanding_balance_usd": 312000.00,
-      "ytd_revenue_usd": 1875000.00,
+      "credit_limit_usd": 1500000.0,
+      "outstanding_balance_usd": 312000.0,
+      "ytd_revenue_usd": 1875000.0,
       "account_rep": "James Whitfield",
       "created_date": "2021-04-20",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "C-008",
@@ -169,12 +169,12 @@
         "country": "AU"
       },
       "payment_terms": "Net30",
-      "credit_limit_usd": 500000.00,
-      "outstanding_balance_usd": 143600.00,
-      "ytd_revenue_usd": 920000.00,
+      "credit_limit_usd": 500000.0,
+      "outstanding_balance_usd": 143600.0,
+      "ytd_revenue_usd": 920000.0,
       "account_rep": "Lara Sutton",
       "created_date": "2020-07-01",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "C-009",
@@ -191,12 +191,12 @@
         "country": "US"
       },
       "payment_terms": "COD",
-      "credit_limit_usd": 50000.00,
-      "outstanding_balance_usd": 0.00,
-      "ytd_revenue_usd": 41800.00,
+      "credit_limit_usd": 50000.0,
+      "outstanding_balance_usd": 0.0,
+      "ytd_revenue_usd": 41800.0,
       "account_rep": "Online",
       "created_date": "2023-11-03",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "C-010",
@@ -213,15 +213,14 @@
         "country": "US"
       },
       "payment_terms": "COD",
-      "credit_limit_usd": 50000.00,
-      "outstanding_balance_usd": 0.00,
-      "ytd_revenue_usd": 29600.00,
+      "credit_limit_usd": 50000.0,
+      "outstanding_balance_usd": 0.0,
+      "ytd_revenue_usd": 29600.0,
       "account_rep": "Online",
       "created_date": "2024-04-17",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     }
   ],
-
   "items": [
     {
       "id": "I-001",
@@ -229,8 +228,8 @@
       "name": "Teak Dining Table 180cm",
       "category": "dining",
       "material": "teak",
-      "unit_cost_usd": 1100.00,
-      "unit_price_usd": 2800.00,
+      "unit_cost_usd": 1100.0,
+      "unit_price_usd": 2800.0,
       "status": "active",
       "description": "Grade A teak dining table, 180cm x 90cm, natural oil finish. Seats 6-8. Sustainably sourced Indonesian teak with mortise-and-tenon joinery. Indoor/outdoor use."
     },
@@ -240,8 +239,8 @@
       "name": "Teak Dining Table 240cm",
       "category": "dining",
       "material": "teak",
-      "unit_cost_usd": 1600.00,
-      "unit_price_usd": 4200.00,
+      "unit_cost_usd": 1600.0,
+      "unit_price_usd": 4200.0,
       "status": "active",
       "description": "Grade A teak dining table, 240cm x 100cm, natural oil finish. Seats 10-12. Sustainably sourced Indonesian teak, heavy-duty brass hardware. Ideal for large entertaining areas and hospitality."
     },
@@ -251,8 +250,8 @@
       "name": "Teak Dining Chair",
       "category": "dining",
       "material": "teak",
-      "unit_cost_usd": 320.00,
-      "unit_price_usd": 890.00,
+      "unit_cost_usd": 320.0,
+      "unit_price_usd": 890.0,
       "status": "active",
       "description": "Grade A teak dining chair with slatted seat and back. Stacks 4 high. Dimensions: 55W x 60D x 88H cm. Sold individually. Cushion sold separately."
     },
@@ -262,8 +261,8 @@
       "name": "Aluminium Lounge Sofa 2-Seater",
       "category": "lounge",
       "material": "aluminum",
-      "unit_cost_usd": 980.00,
-      "unit_price_usd": 2600.00,
+      "unit_cost_usd": 980.0,
+      "unit_price_usd": 2600.0,
       "status": "active",
       "description": "Powder-coated marine-grade aluminium lounge sofa, 2-seater. Frame: matte charcoal. Includes Sunbrella® cushions in stone linen. Dimensions: 165W x 85D x 70H cm. UV, rust, and saltwater resistant."
     },
@@ -273,8 +272,8 @@
       "name": "Aluminium Lounge Sofa 3-Seater",
       "category": "lounge",
       "material": "aluminum",
-      "unit_cost_usd": 1350.00,
-      "unit_price_usd": 3600.00,
+      "unit_cost_usd": 1350.0,
+      "unit_price_usd": 3600.0,
       "status": "active",
       "description": "Powder-coated marine-grade aluminium lounge sofa, 3-seater. Frame: matte charcoal. Includes Sunbrella® cushions in stone linen. Dimensions: 230W x 85D x 70H cm. UV, rust, and saltwater resistant."
     },
@@ -284,8 +283,8 @@
       "name": "Wicker Daybed with Canopy",
       "category": "lounge",
       "material": "wicker",
-      "unit_cost_usd": 1800.00,
-      "unit_price_usd": 4800.00,
+      "unit_cost_usd": 1800.0,
+      "unit_price_usd": 4800.0,
       "status": "active",
       "description": "All-weather resin wicker daybed with retractable fabric canopy. Aluminium frame, Sunbrella® mattress and bolster cushions. Dimensions: 210W x 130D x 155H cm (canopy extended). Suitable for pool areas and terraces."
     },
@@ -295,8 +294,8 @@
       "name": "Sun Lounger Aluminium Flat",
       "category": "lounge",
       "material": "aluminum",
-      "unit_cost_usd": 560.00,
-      "unit_price_usd": 1500.00,
+      "unit_cost_usd": 560.0,
+      "unit_price_usd": 1500.0,
       "status": "active",
       "description": "Adjustable aluminium sun lounger with 5-position backrest. Marine-grade powder coat finish in bone white. Includes Sunbrella® cushion. Dimensions: 200W x 70D x 35H cm (flat). Stackable."
     },
@@ -306,8 +305,8 @@
       "name": "Cantilever Umbrella 4m",
       "category": "shade",
       "material": "aluminum",
-      "unit_cost_usd": 900.00,
-      "unit_price_usd": 2400.00,
+      "unit_cost_usd": 900.0,
+      "unit_price_usd": 2400.0,
       "status": "active",
       "description": "4m diameter cantilever market umbrella. Marine-grade aluminium pole and ribs. Sunbrella® canopy in sand. 360° rotation, tilt mechanism. Includes weighted base. Wind rating: up to 35 km/h."
     },
@@ -317,8 +316,8 @@
       "name": "Teak Outdoor Side Table Round",
       "category": "accessories",
       "material": "teak",
-      "unit_cost_usd": 180.00,
-      "unit_price_usd": 480.00,
+      "unit_cost_usd": 180.0,
+      "unit_price_usd": 480.0,
       "status": "active",
       "description": "Solid grade A teak round side table. Dimensions: 50cm diameter x 55H cm. Natural oil finish. Suitable for use alongside sun loungers and lounge sofas. Lightweight and easy to move."
     },
@@ -328,13 +327,12 @@
       "name": "Teak Outdoor Bar Cabinet",
       "category": "storage",
       "material": "teak",
-      "unit_cost_usd": 1950.00,
-      "unit_price_usd": 5200.00,
+      "unit_cost_usd": 1950.0,
+      "unit_price_usd": 5200.0,
       "status": "active",
       "description": "Freestanding teak outdoor bar cabinet with stainless steel hardware. Two hinged doors, interior shelving, and pull-out prep surface. Dimensions: 120W x 55D x 110H cm. Teak oil finish. Ideal for outdoor kitchens and entertainment areas."
     }
   ],
-
   "inventory": [
     {
       "id": "INV-001",
@@ -597,7 +595,6 @@
       "last_updated": "2026-08-18"
     }
   ],
-
   "sales_orders": [
     {
       "id": "SO-001",
@@ -609,16 +606,46 @@
       "ship_date": "2026-09-15",
       "po_number": "FS-2026-OUTDOOR-001",
       "line_items": [
-        { "item_id": "I-002", "item_name": "Teak Dining Table 240cm", "quantity": 6, "unit_price_usd": 4200.00, "amount_usd": 25200.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 48, "unit_price_usd": 890.00, "amount_usd": 42720.00 },
-        { "item_id": "I-007", "item_name": "Sun Lounger Aluminium Flat", "quantity": 24, "unit_price_usd": 1500.00, "amount_usd": 36000.00 },
-        { "item_id": "I-006", "item_name": "Wicker Daybed with Canopy", "quantity": 8, "unit_price_usd": 4800.00, "amount_usd": 38400.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 10, "unit_price_usd": 2400.00, "amount_usd": 24000.00 }
+        {
+          "item_id": "I-002",
+          "item_name": "Teak Dining Table 240cm",
+          "quantity": 6,
+          "unit_price_usd": 4200.0,
+          "amount_usd": 25200.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 48,
+          "unit_price_usd": 890.0,
+          "amount_usd": 42720.0
+        },
+        {
+          "item_id": "I-007",
+          "item_name": "Sun Lounger Aluminium Flat",
+          "quantity": 24,
+          "unit_price_usd": 1500.0,
+          "amount_usd": 36000.0
+        },
+        {
+          "item_id": "I-006",
+          "item_name": "Wicker Daybed with Canopy",
+          "quantity": 8,
+          "unit_price_usd": 4800.0,
+          "amount_usd": 38400.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 10,
+          "unit_price_usd": 2400.0,
+          "amount_usd": 24000.0
+        }
       ],
-      "subtotal_usd": 166320.00,
-      "tax_usd": 0.00,
-      "shipping_usd": 4800.00,
-      "total_usd": 171120.00,
+      "subtotal_usd": 166320.0,
+      "tax_usd": 0.0,
+      "shipping_usd": 4800.0,
+      "total_usd": 171120.0,
       "shipping_method": "freight",
       "account_rep": "James Whitfield",
       "memo": "Four Seasons Hualalai pool terrace renovation — Phase 1 outdoor package. White glove delivery and installation required. Coordinate with site project manager Dana Reyes."
@@ -633,17 +660,53 @@
       "ship_date": "2026-08-01",
       "po_number": "AMAN-2026-FF&E-014",
       "line_items": [
-        { "item_id": "I-002", "item_name": "Teak Dining Table 240cm", "quantity": 4, "unit_price_usd": 4200.00, "amount_usd": 16800.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 32, "unit_price_usd": 890.00, "amount_usd": 28480.00 },
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 6, "unit_price_usd": 3600.00, "amount_usd": 21600.00 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 6, "unit_price_usd": 2600.00, "amount_usd": 15600.00 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 12, "unit_price_usd": 480.00, "amount_usd": 5760.00 },
-        { "item_id": "I-010", "item_name": "Teak Outdoor Bar Cabinet", "quantity": 3, "unit_price_usd": 5200.00, "amount_usd": 15600.00 }
+        {
+          "item_id": "I-002",
+          "item_name": "Teak Dining Table 240cm",
+          "quantity": 4,
+          "unit_price_usd": 4200.0,
+          "amount_usd": 16800.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 32,
+          "unit_price_usd": 890.0,
+          "amount_usd": 28480.0
+        },
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 6,
+          "unit_price_usd": 3600.0,
+          "amount_usd": 21600.0
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 6,
+          "unit_price_usd": 2600.0,
+          "amount_usd": 15600.0
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 12,
+          "unit_price_usd": 480.0,
+          "amount_usd": 5760.0
+        },
+        {
+          "item_id": "I-010",
+          "item_name": "Teak Outdoor Bar Cabinet",
+          "quantity": 3,
+          "unit_price_usd": 5200.0,
+          "amount_usd": 15600.0
+        }
       ],
-      "subtotal_usd": 103840.00,
-      "tax_usd": 0.00,
-      "shipping_usd": 3200.00,
-      "total_usd": 107040.00,
+      "subtotal_usd": 103840.0,
+      "tax_usd": 0.0,
+      "shipping_usd": 3200.0,
+      "total_usd": 107040.0,
       "shipping_method": "white_glove",
       "account_rep": "James Whitfield",
       "memo": "Aman Venice outdoor terrace — dining and lounge zones. Tables and chairs shipped. Sofas and bar cabinets pending due to customs hold at Rotterdam."
@@ -658,15 +721,39 @@
       "ship_date": "2026-07-05",
       "po_number": "RH-26-Q3-HO-0082",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 6, "unit_price_usd": 2800.00, "amount_usd": 16800.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 24, "unit_price_usd": 890.00, "amount_usd": 21360.00 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 8, "unit_price_usd": 2600.00, "amount_usd": 20800.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 6, "unit_price_usd": 2400.00, "amount_usd": 14400.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 6,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 16800.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 24,
+          "unit_price_usd": 890.0,
+          "amount_usd": 21360.0
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 8,
+          "unit_price_usd": 2600.0,
+          "amount_usd": 20800.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 6,
+          "unit_price_usd": 2400.0,
+          "amount_usd": 14400.0
+        }
       ],
-      "subtotal_usd": 73360.00,
-      "tax_usd": 0.00,
-      "shipping_usd": 1800.00,
-      "total_usd": 75160.00,
+      "subtotal_usd": 73360.0,
+      "tax_usd": 0.0,
+      "shipping_usd": 1800.0,
+      "total_usd": 75160.0,
       "shipping_method": "freight",
       "account_rep": "James Whitfield",
       "memo": "Q3 floor set replenishment for RH showrooms — Chicago, Boston, Atlanta. Delivered to RH distribution centre."
@@ -681,14 +768,32 @@
       "ship_date": "2026-06-18",
       "po_number": "DWR-2026-SS-HO-07",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 4, "unit_price_usd": 2800.00, "amount_usd": 11200.00 },
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 4, "unit_price_usd": 3600.00, "amount_usd": 14400.00 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 8, "unit_price_usd": 480.00, "amount_usd": 3840.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 4,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 11200.0
+        },
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 4,
+          "unit_price_usd": 3600.0,
+          "amount_usd": 14400.0
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 8,
+          "unit_price_usd": 480.0,
+          "amount_usd": 3840.0
+        }
       ],
-      "subtotal_usd": 29440.00,
-      "tax_usd": 0.00,
-      "shipping_usd": 950.00,
-      "total_usd": 30390.00,
+      "subtotal_usd": 29440.0,
+      "tax_usd": 0.0,
+      "shipping_usd": 950.0,
+      "total_usd": 30390.0,
       "shipping_method": "freight",
       "account_rep": "James Whitfield",
       "memo": "Summer season floor set refresh — DWR SoHo and DWR Greenwich Village."
@@ -703,15 +808,39 @@
       "ship_date": "2026-09-30",
       "po_number": "KK-2026-RESI-044",
       "line_items": [
-        { "item_id": "I-002", "item_name": "Teak Dining Table 240cm", "quantity": 2, "unit_price_usd": 4200.00, "amount_usd": 8400.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 16, "unit_price_usd": 890.00, "amount_usd": 14240.00 },
-        { "item_id": "I-006", "item_name": "Wicker Daybed with Canopy", "quantity": 4, "unit_price_usd": 4800.00, "amount_usd": 19200.00 },
-        { "item_id": "I-010", "item_name": "Teak Outdoor Bar Cabinet", "quantity": 2, "unit_price_usd": 5200.00, "amount_usd": 10400.00 }
+        {
+          "item_id": "I-002",
+          "item_name": "Teak Dining Table 240cm",
+          "quantity": 2,
+          "unit_price_usd": 4200.0,
+          "amount_usd": 8400.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 16,
+          "unit_price_usd": 890.0,
+          "amount_usd": 14240.0
+        },
+        {
+          "item_id": "I-006",
+          "item_name": "Wicker Daybed with Canopy",
+          "quantity": 4,
+          "unit_price_usd": 4800.0,
+          "amount_usd": 19200.0
+        },
+        {
+          "item_id": "I-010",
+          "item_name": "Teak Outdoor Bar Cabinet",
+          "quantity": 2,
+          "unit_price_usd": 5200.0,
+          "amount_usd": 10400.0
+        }
       ],
-      "subtotal_usd": 52240.00,
-      "tax_usd": 0.00,
-      "shipping_usd": 1600.00,
-      "total_usd": 53840.00,
+      "subtotal_usd": 52240.0,
+      "tax_usd": 0.0,
+      "shipping_usd": 1600.0,
+      "total_usd": 53840.0,
       "shipping_method": "white_glove",
       "account_rep": "Sarah Connelly",
       "memo": "Private residence, Star Island Miami — poolside terrace and outdoor dining. Client: confidential. Coordinate delivery with site super Marcos Delgado."
@@ -726,18 +855,42 @@
       "ship_date": "2026-06-01",
       "po_number": "AP-NY-2026-EXT-019",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 2, "unit_price_usd": 2800.00, "amount_usd": 5600.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 8, "unit_price_usd": 890.00, "amount_usd": 7120.00 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 2, "unit_price_usd": 2600.00, "amount_usd": 5200.00 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 4, "unit_price_usd": 480.00, "amount_usd": 1920.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 2,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 5600.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 8,
+          "unit_price_usd": 890.0,
+          "amount_usd": 7120.0
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 2,
+          "unit_price_usd": 2600.0,
+          "amount_usd": 5200.0
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 4,
+          "unit_price_usd": 480.0,
+          "amount_usd": 1920.0
+        }
       ],
-      "subtotal_usd": 19840.00,
-      "tax_usd": 0.00,
-      "shipping_usd": 600.00,
-      "total_usd": 20440.00,
+      "subtotal_usd": 19840.0,
+      "tax_usd": 0.0,
+      "shipping_usd": 600.0,
+      "total_usd": 20440.0,
       "shipping_method": "white_glove",
       "account_rep": "Sarah Connelly",
-      "memo": "Penthouse terrace, 432 Park Avenue. Repeat order — this is client's second Harbour Outdoor package. Designer Suzanne Pyke account."
+      "memo": "Penthouse terrace, 432 Park Avenue. Repeat order — this is client's second Summit Outdoor package. Designer Suzanne Pyke account."
     },
     {
       "id": "SO-007",
@@ -749,16 +902,46 @@
       "ship_date": "2026-10-01",
       "po_number": "AP-NY-2026-EXT-031",
       "line_items": [
-        { "item_id": "I-002", "item_name": "Teak Dining Table 240cm", "quantity": 1, "unit_price_usd": 4200.00, "amount_usd": 4200.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 10, "unit_price_usd": 890.00, "amount_usd": 8900.00 },
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 2, "unit_price_usd": 3600.00, "amount_usd": 7200.00 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 1, "unit_price_usd": 2600.00, "amount_usd": 2600.00 },
-        { "item_id": "I-010", "item_name": "Teak Outdoor Bar Cabinet", "quantity": 1, "unit_price_usd": 5200.00, "amount_usd": 5200.00 }
+        {
+          "item_id": "I-002",
+          "item_name": "Teak Dining Table 240cm",
+          "quantity": 1,
+          "unit_price_usd": 4200.0,
+          "amount_usd": 4200.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 10,
+          "unit_price_usd": 890.0,
+          "amount_usd": 8900.0
+        },
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 2,
+          "unit_price_usd": 3600.0,
+          "amount_usd": 7200.0
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 1,
+          "unit_price_usd": 2600.0,
+          "amount_usd": 2600.0
+        },
+        {
+          "item_id": "I-010",
+          "item_name": "Teak Outdoor Bar Cabinet",
+          "quantity": 1,
+          "unit_price_usd": 5200.0,
+          "amount_usd": 5200.0
+        }
       ],
-      "subtotal_usd": 28100.00,
-      "tax_usd": 0.00,
-      "shipping_usd": 800.00,
-      "total_usd": 28900.00,
+      "subtotal_usd": 28100.0,
+      "tax_usd": 0.0,
+      "shipping_usd": 800.0,
+      "total_usd": 28900.0,
       "shipping_method": "white_glove",
       "account_rep": "Sarah Connelly",
       "memo": "New project — Hamptons estate, Ocean Road Southampton. New construction, outdoor terrace and pool deck. Delivery not before October 1."
@@ -773,15 +956,39 @@
       "ship_date": "2026-05-20",
       "po_number": "PLD-AU-2026-Q2-003",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 10, "unit_price_usd": 2800.00, "amount_usd": 28000.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 40, "unit_price_usd": 890.00, "amount_usd": 35600.00 },
-        { "item_id": "I-007", "item_name": "Sun Lounger Aluminium Flat", "quantity": 20, "unit_price_usd": 1500.00, "amount_usd": 30000.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 8, "unit_price_usd": 2400.00, "amount_usd": 19200.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 10,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 28000.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 40,
+          "unit_price_usd": 890.0,
+          "amount_usd": 35600.0
+        },
+        {
+          "item_id": "I-007",
+          "item_name": "Sun Lounger Aluminium Flat",
+          "quantity": 20,
+          "unit_price_usd": 1500.0,
+          "amount_usd": 30000.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 8,
+          "unit_price_usd": 2400.0,
+          "amount_usd": 19200.0
+        }
       ],
-      "subtotal_usd": 112800.00,
-      "tax_usd": 0.00,
-      "shipping_usd": 5200.00,
-      "total_usd": 118000.00,
+      "subtotal_usd": 112800.0,
+      "tax_usd": 0.0,
+      "shipping_usd": 5200.0,
+      "total_usd": 118000.0,
       "shipping_method": "freight",
       "account_rep": "Lara Sutton",
       "memo": "Q2 stock order for AU/NZ distribution — seasonal replenishment ahead of Southern Hemisphere spring/summer."
@@ -796,15 +1003,39 @@
       "ship_date": "2026-04-22",
       "po_number": "SM-LA-2026-012",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 2, "unit_price_usd": 2800.00, "amount_usd": 5600.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 8, "unit_price_usd": 890.00, "amount_usd": 7120.00 },
-        { "item_id": "I-007", "item_name": "Sun Lounger Aluminium Flat", "quantity": 4, "unit_price_usd": 1500.00, "amount_usd": 6000.00 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 4, "unit_price_usd": 480.00, "amount_usd": 1920.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 2,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 5600.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 8,
+          "unit_price_usd": 890.0,
+          "amount_usd": 7120.0
+        },
+        {
+          "item_id": "I-007",
+          "item_name": "Sun Lounger Aluminium Flat",
+          "quantity": 4,
+          "unit_price_usd": 1500.0,
+          "amount_usd": 6000.0
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 4,
+          "unit_price_usd": 480.0,
+          "amount_usd": 1920.0
+        }
       ],
-      "subtotal_usd": 20640.00,
-      "tax_usd": 0.00,
-      "shipping_usd": 650.00,
-      "total_usd": 21290.00,
+      "subtotal_usd": 20640.0,
+      "tax_usd": 0.0,
+      "shipping_usd": 650.0,
+      "total_usd": 21290.0,
       "shipping_method": "white_glove",
       "account_rep": "Sarah Connelly",
       "memo": "Brentwood residential project — outdoor dining terrace and sun deck. Fully delivered and paid. Order closed."
@@ -819,14 +1050,32 @@
       "ship_date": "2026-08-10",
       "po_number": null,
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 1, "unit_price_usd": 2800.00, "amount_usd": 2800.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 6, "unit_price_usd": 890.00, "amount_usd": 5340.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 1, "unit_price_usd": 2400.00, "amount_usd": 2400.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 1,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 2800.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 6,
+          "unit_price_usd": 890.0,
+          "amount_usd": 5340.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 1,
+          "unit_price_usd": 2400.0,
+          "amount_usd": 2400.0
+        }
       ],
-      "subtotal_usd": 10540.00,
-      "tax_usd": 949.00,
-      "shipping_usd": 395.00,
-      "total_usd": 11884.00,
+      "subtotal_usd": 10540.0,
+      "tax_usd": 949.0,
+      "shipping_usd": 395.0,
+      "total_usd": 11884.0,
       "shipping_method": "white_glove",
       "account_rep": "Online",
       "memo": "DTC order — harbouroutdoor.com. Repeat customer, third purchase. White glove delivery to Pacific Palisades."
@@ -841,15 +1090,39 @@
       "ship_date": "2026-07-18",
       "po_number": null,
       "line_items": [
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 1, "unit_price_usd": 3600.00, "amount_usd": 3600.00 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 1, "unit_price_usd": 2600.00, "amount_usd": 2600.00 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 2, "unit_price_usd": 480.00, "amount_usd": 960.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 1, "unit_price_usd": 2400.00, "amount_usd": 2400.00 }
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 1,
+          "unit_price_usd": 3600.0,
+          "amount_usd": 3600.0
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 1,
+          "unit_price_usd": 2600.0,
+          "amount_usd": 2600.0
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 2,
+          "unit_price_usd": 480.0,
+          "amount_usd": 960.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 1,
+          "unit_price_usd": 2400.0,
+          "amount_usd": 2400.0
+        }
       ],
-      "subtotal_usd": 9560.00,
-      "tax_usd": 860.00,
-      "shipping_usd": 350.00,
-      "total_usd": 10770.00,
+      "subtotal_usd": 9560.0,
+      "tax_usd": 860.0,
+      "shipping_usd": 350.0,
+      "total_usd": 10770.0,
       "shipping_method": "white_glove",
       "account_rep": "Online",
       "memo": "DTC order — harbouroutdoor.com. Lounge package for Manhattan rooftop terrace."
@@ -864,19 +1137,30 @@
       "ship_date": null,
       "po_number": "RH-26-Q1-HO-0031",
       "line_items": [
-        { "item_id": "I-006", "item_name": "Wicker Daybed with Canopy", "quantity": 4, "unit_price_usd": 4800.00, "amount_usd": 19200.00 },
-        { "item_id": "I-010", "item_name": "Teak Outdoor Bar Cabinet", "quantity": 4, "unit_price_usd": 5200.00, "amount_usd": 20800.00 }
+        {
+          "item_id": "I-006",
+          "item_name": "Wicker Daybed with Canopy",
+          "quantity": 4,
+          "unit_price_usd": 4800.0,
+          "amount_usd": 19200.0
+        },
+        {
+          "item_id": "I-010",
+          "item_name": "Teak Outdoor Bar Cabinet",
+          "quantity": 4,
+          "unit_price_usd": 5200.0,
+          "amount_usd": 20800.0
+        }
       ],
-      "subtotal_usd": 40000.00,
-      "tax_usd": 0.00,
-      "shipping_usd": 1200.00,
-      "total_usd": 41200.00,
+      "subtotal_usd": 40000.0,
+      "tax_usd": 0.0,
+      "shipping_usd": 1200.0,
+      "total_usd": 41200.0,
       "shipping_method": "freight",
       "account_rep": "James Whitfield",
       "memo": "Cancelled by RH buyer — product range rationalisation. No charge. Credit not required."
     }
   ],
-
   "invoices": [
     {
       "id": "INV-001",
@@ -889,17 +1173,47 @@
       "due_date": "2026-10-05",
       "paid_date": null,
       "line_items": [
-        { "item_id": "I-002", "item_name": "Teak Dining Table 240cm", "quantity": 6, "unit_price_usd": 4200.00, "amount_usd": 25200.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 48, "unit_price_usd": 890.00, "amount_usd": 42720.00 },
-        { "item_id": "I-007", "item_name": "Sun Lounger Aluminium Flat", "quantity": 24, "unit_price_usd": 1500.00, "amount_usd": 36000.00 },
-        { "item_id": "I-006", "item_name": "Wicker Daybed with Canopy", "quantity": 8, "unit_price_usd": 4800.00, "amount_usd": 38400.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 10, "unit_price_usd": 2400.00, "amount_usd": 24000.00 }
+        {
+          "item_id": "I-002",
+          "item_name": "Teak Dining Table 240cm",
+          "quantity": 6,
+          "unit_price_usd": 4200.0,
+          "amount_usd": 25200.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 48,
+          "unit_price_usd": 890.0,
+          "amount_usd": 42720.0
+        },
+        {
+          "item_id": "I-007",
+          "item_name": "Sun Lounger Aluminium Flat",
+          "quantity": 24,
+          "unit_price_usd": 1500.0,
+          "amount_usd": 36000.0
+        },
+        {
+          "item_id": "I-006",
+          "item_name": "Wicker Daybed with Canopy",
+          "quantity": 8,
+          "unit_price_usd": 4800.0,
+          "amount_usd": 38400.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 10,
+          "unit_price_usd": 2400.0,
+          "amount_usd": 24000.0
+        }
       ],
-      "subtotal_usd": 166320.00,
-      "tax_usd": 0.00,
-      "total_usd": 171120.00,
-      "amount_paid_usd": 0.00,
-      "amount_due_usd": 171120.00,
+      "subtotal_usd": 166320.0,
+      "tax_usd": 0.0,
+      "total_usd": 171120.0,
+      "amount_paid_usd": 0.0,
+      "amount_due_usd": 171120.0,
       "payment_terms": "Net60",
       "memo": "Deposit invoice — Four Seasons Hualalai Phase 1. Balance due upon delivery confirmation."
     },
@@ -914,18 +1228,54 @@
       "due_date": "2026-09-13",
       "paid_date": null,
       "line_items": [
-        { "item_id": "I-002", "item_name": "Teak Dining Table 240cm", "quantity": 4, "unit_price_usd": 4200.00, "amount_usd": 16800.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 32, "unit_price_usd": 890.00, "amount_usd": 28480.00 },
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 6, "unit_price_usd": 3600.00, "amount_usd": 21600.00 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 6, "unit_price_usd": 2600.00, "amount_usd": 15600.00 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 12, "unit_price_usd": 480.00, "amount_usd": 5760.00 },
-        { "item_id": "I-010", "item_name": "Teak Outdoor Bar Cabinet", "quantity": 3, "unit_price_usd": 5200.00, "amount_usd": 15600.00 }
+        {
+          "item_id": "I-002",
+          "item_name": "Teak Dining Table 240cm",
+          "quantity": 4,
+          "unit_price_usd": 4200.0,
+          "amount_usd": 16800.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 32,
+          "unit_price_usd": 890.0,
+          "amount_usd": 28480.0
+        },
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 6,
+          "unit_price_usd": 3600.0,
+          "amount_usd": 21600.0
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 6,
+          "unit_price_usd": 2600.0,
+          "amount_usd": 15600.0
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 12,
+          "unit_price_usd": 480.0,
+          "amount_usd": 5760.0
+        },
+        {
+          "item_id": "I-010",
+          "item_name": "Teak Outdoor Bar Cabinet",
+          "quantity": 3,
+          "unit_price_usd": 5200.0,
+          "amount_usd": 15600.0
+        }
       ],
-      "subtotal_usd": 103840.00,
-      "tax_usd": 0.00,
-      "total_usd": 107040.00,
-      "amount_paid_usd": 50000.00,
-      "amount_due_usd": 57040.00,
+      "subtotal_usd": 103840.0,
+      "tax_usd": 0.0,
+      "total_usd": 107040.0,
+      "amount_paid_usd": 50000.0,
+      "amount_due_usd": 57040.0,
       "payment_terms": "Net60",
       "memo": "Partial payment received 2026-08-01 — $50,000 deposit per contract terms. Balance due on delivery of remaining items (sofas and bar cabinets pending customs clearance)."
     },
@@ -940,16 +1290,40 @@
       "due_date": "2026-09-04",
       "paid_date": null,
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 6, "unit_price_usd": 2800.00, "amount_usd": 16800.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 24, "unit_price_usd": 890.00, "amount_usd": 21360.00 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 8, "unit_price_usd": 2600.00, "amount_usd": 20800.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 6, "unit_price_usd": 2400.00, "amount_usd": 14400.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 6,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 16800.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 24,
+          "unit_price_usd": 890.0,
+          "amount_usd": 21360.0
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 8,
+          "unit_price_usd": 2600.0,
+          "amount_usd": 20800.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 6,
+          "unit_price_usd": 2400.0,
+          "amount_usd": 14400.0
+        }
       ],
-      "subtotal_usd": 73360.00,
-      "tax_usd": 0.00,
-      "total_usd": 75160.00,
-      "amount_paid_usd": 0.00,
-      "amount_due_usd": 75160.00,
+      "subtotal_usd": 73360.0,
+      "tax_usd": 0.0,
+      "total_usd": 75160.0,
+      "amount_paid_usd": 0.0,
+      "amount_due_usd": 75160.0,
       "payment_terms": "Net60",
       "memo": "OVERDUE — Net 60 terms. Invoice date 2026-07-06, due 2026-09-04. Escalated to RH AP contact. Follow up: James Whitfield. Q3 floor set delivery confirmed received."
     },
@@ -964,15 +1338,33 @@
       "due_date": "2026-07-19",
       "paid_date": "2026-07-17",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 4, "unit_price_usd": 2800.00, "amount_usd": 11200.00 },
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 4, "unit_price_usd": 3600.00, "amount_usd": 14400.00 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 8, "unit_price_usd": 480.00, "amount_usd": 3840.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 4,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 11200.0
+        },
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 4,
+          "unit_price_usd": 3600.0,
+          "amount_usd": 14400.0
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 8,
+          "unit_price_usd": 480.0,
+          "amount_usd": 3840.0
+        }
       ],
-      "subtotal_usd": 29440.00,
-      "tax_usd": 0.00,
-      "total_usd": 30390.00,
-      "amount_paid_usd": 30390.00,
-      "amount_due_usd": 0.00,
+      "subtotal_usd": 29440.0,
+      "tax_usd": 0.0,
+      "total_usd": 30390.0,
+      "amount_paid_usd": 30390.0,
+      "amount_due_usd": 0.0,
       "payment_terms": "Net30",
       "memo": "Paid in full via ACH 2026-07-17. Ref: DWR-PAY-20260717-HO."
     },
@@ -987,16 +1379,40 @@
       "due_date": "2026-09-01",
       "paid_date": null,
       "line_items": [
-        { "item_id": "I-002", "item_name": "Teak Dining Table 240cm", "quantity": 2, "unit_price_usd": 4200.00, "amount_usd": 8400.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 16, "unit_price_usd": 890.00, "amount_usd": 14240.00 },
-        { "item_id": "I-006", "item_name": "Wicker Daybed with Canopy", "quantity": 4, "unit_price_usd": 4800.00, "amount_usd": 19200.00 },
-        { "item_id": "I-010", "item_name": "Teak Outdoor Bar Cabinet", "quantity": 2, "unit_price_usd": 5200.00, "amount_usd": 10400.00 }
+        {
+          "item_id": "I-002",
+          "item_name": "Teak Dining Table 240cm",
+          "quantity": 2,
+          "unit_price_usd": 4200.0,
+          "amount_usd": 8400.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 16,
+          "unit_price_usd": 890.0,
+          "amount_usd": 14240.0
+        },
+        {
+          "item_id": "I-006",
+          "item_name": "Wicker Daybed with Canopy",
+          "quantity": 4,
+          "unit_price_usd": 4800.0,
+          "amount_usd": 19200.0
+        },
+        {
+          "item_id": "I-010",
+          "item_name": "Teak Outdoor Bar Cabinet",
+          "quantity": 2,
+          "unit_price_usd": 5200.0,
+          "amount_usd": 10400.0
+        }
       ],
-      "subtotal_usd": 52240.00,
-      "tax_usd": 0.00,
-      "total_usd": 53840.00,
-      "amount_paid_usd": 0.00,
-      "amount_due_usd": 53840.00,
+      "subtotal_usd": 52240.0,
+      "tax_usd": 0.0,
+      "total_usd": 53840.0,
+      "amount_paid_usd": 0.0,
+      "amount_due_usd": 53840.0,
       "payment_terms": "Net30",
       "memo": "Deposit invoice raised on order approval. Delivery scheduled September 30."
     },
@@ -1011,16 +1427,40 @@
       "due_date": "2026-07-02",
       "paid_date": "2026-06-28",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 2, "unit_price_usd": 2800.00, "amount_usd": 5600.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 8, "unit_price_usd": 890.00, "amount_usd": 7120.00 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 2, "unit_price_usd": 2600.00, "amount_usd": 5200.00 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 4, "unit_price_usd": 480.00, "amount_usd": 1920.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 2,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 5600.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 8,
+          "unit_price_usd": 890.0,
+          "amount_usd": 7120.0
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 2,
+          "unit_price_usd": 2600.0,
+          "amount_usd": 5200.0
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 4,
+          "unit_price_usd": 480.0,
+          "amount_usd": 1920.0
+        }
       ],
-      "subtotal_usd": 19840.00,
-      "tax_usd": 0.00,
-      "total_usd": 20440.00,
-      "amount_paid_usd": 20440.00,
-      "amount_due_usd": 0.00,
+      "subtotal_usd": 19840.0,
+      "tax_usd": 0.0,
+      "total_usd": 20440.0,
+      "amount_paid_usd": 20440.0,
+      "amount_due_usd": 0.0,
       "payment_terms": "Net30",
       "memo": "Paid in full via wire transfer 2026-06-28. Penthouse terrace — 432 Park Avenue project complete."
     },
@@ -1035,16 +1475,40 @@
       "due_date": "2026-06-20",
       "paid_date": "2026-06-18",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 10, "unit_price_usd": 2800.00, "amount_usd": 28000.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 40, "unit_price_usd": 890.00, "amount_usd": 35600.00 },
-        { "item_id": "I-007", "item_name": "Sun Lounger Aluminium Flat", "quantity": 20, "unit_price_usd": 1500.00, "amount_usd": 30000.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 8, "unit_price_usd": 2400.00, "amount_usd": 19200.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 10,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 28000.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 40,
+          "unit_price_usd": 890.0,
+          "amount_usd": 35600.0
+        },
+        {
+          "item_id": "I-007",
+          "item_name": "Sun Lounger Aluminium Flat",
+          "quantity": 20,
+          "unit_price_usd": 1500.0,
+          "amount_usd": 30000.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 8,
+          "unit_price_usd": 2400.0,
+          "amount_usd": 19200.0
+        }
       ],
-      "subtotal_usd": 112800.00,
-      "tax_usd": 0.00,
-      "total_usd": 118000.00,
-      "amount_paid_usd": 118000.00,
-      "amount_due_usd": 0.00,
+      "subtotal_usd": 112800.0,
+      "tax_usd": 0.0,
+      "total_usd": 118000.0,
+      "amount_paid_usd": 118000.0,
+      "amount_due_usd": 0.0,
       "payment_terms": "Net30",
       "memo": "Paid in full via international wire 2026-06-18. Q2 AU/NZ stock order complete."
     },
@@ -1059,16 +1523,40 @@
       "due_date": "2026-05-23",
       "paid_date": "2026-05-20",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 2, "unit_price_usd": 2800.00, "amount_usd": 5600.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 8, "unit_price_usd": 890.00, "amount_usd": 7120.00 },
-        { "item_id": "I-007", "item_name": "Sun Lounger Aluminium Flat", "quantity": 4, "unit_price_usd": 1500.00, "amount_usd": 6000.00 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 4, "unit_price_usd": 480.00, "amount_usd": 1920.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 2,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 5600.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 8,
+          "unit_price_usd": 890.0,
+          "amount_usd": 7120.0
+        },
+        {
+          "item_id": "I-007",
+          "item_name": "Sun Lounger Aluminium Flat",
+          "quantity": 4,
+          "unit_price_usd": 1500.0,
+          "amount_usd": 6000.0
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 4,
+          "unit_price_usd": 480.0,
+          "amount_usd": 1920.0
+        }
       ],
-      "subtotal_usd": 20640.00,
-      "tax_usd": 0.00,
-      "total_usd": 21290.00,
-      "amount_paid_usd": 21290.00,
-      "amount_due_usd": 0.00,
+      "subtotal_usd": 20640.0,
+      "tax_usd": 0.0,
+      "total_usd": 21290.0,
+      "amount_paid_usd": 21290.0,
+      "amount_due_usd": 0.0,
       "payment_terms": "Net30",
       "memo": "Paid in full via ACH 2026-05-20. Brentwood project closed."
     },
@@ -1083,17 +1571,35 @@
       "due_date": "2026-08-10",
       "paid_date": "2026-08-10",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 1, "unit_price_usd": 2800.00, "amount_usd": 2800.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 6, "unit_price_usd": 890.00, "amount_usd": 5340.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 1, "unit_price_usd": 2400.00, "amount_usd": 2400.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 1,
+          "unit_price_usd": 2800.0,
+          "amount_usd": 2800.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 6,
+          "unit_price_usd": 890.0,
+          "amount_usd": 5340.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 1,
+          "unit_price_usd": 2400.0,
+          "amount_usd": 2400.0
+        }
       ],
-      "subtotal_usd": 10540.00,
-      "tax_usd": 949.00,
-      "total_usd": 11884.00,
-      "amount_paid_usd": 11884.00,
-      "amount_due_usd": 0.00,
+      "subtotal_usd": 10540.0,
+      "tax_usd": 949.0,
+      "total_usd": 11884.0,
+      "amount_paid_usd": 11884.0,
+      "amount_due_usd": 0.0,
       "payment_terms": "COD",
-      "memo": "DTC — paid at checkout via credit card. Stripe ref: ch_3Pb9Xd2eZvKYlo2C1GgkDf4r."
+      "memo": "DTC — paid at checkout via credit card. PayStream ref: ch_3Pb9Xd2eZvKYlo2C1GgkDf4r."
     },
     {
       "id": "INV-010",
@@ -1106,21 +1612,44 @@
       "due_date": "2026-07-18",
       "paid_date": "2026-07-18",
       "line_items": [
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 1, "unit_price_usd": 3600.00, "amount_usd": 3600.00 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 1, "unit_price_usd": 2600.00, "amount_usd": 2600.00 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 2, "unit_price_usd": 480.00, "amount_usd": 960.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 1, "unit_price_usd": 2400.00, "amount_usd": 2400.00 }
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 1,
+          "unit_price_usd": 3600.0,
+          "amount_usd": 3600.0
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 1,
+          "unit_price_usd": 2600.0,
+          "amount_usd": 2600.0
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 2,
+          "unit_price_usd": 480.0,
+          "amount_usd": 960.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 1,
+          "unit_price_usd": 2400.0,
+          "amount_usd": 2400.0
+        }
       ],
-      "subtotal_usd": 9560.00,
-      "tax_usd": 860.00,
-      "total_usd": 10770.00,
-      "amount_paid_usd": 10770.00,
-      "amount_due_usd": 0.00,
+      "subtotal_usd": 9560.0,
+      "tax_usd": 860.0,
+      "total_usd": 10770.0,
+      "amount_paid_usd": 10770.0,
+      "amount_due_usd": 0.0,
       "payment_terms": "COD",
-      "memo": "DTC — paid at checkout via credit card. Stripe ref: ch_3Qc1Xt2eZvKYlo2C1HhjEg5s."
+      "memo": "DTC — paid at checkout via credit card. PayStream ref: ch_3Qc1Xt2eZvKYlo2C1HhjEg5s."
     }
   ],
-
   "purchase_orders": [
     {
       "id": "PO-001",
@@ -1131,12 +1660,36 @@
       "created_date": "2026-08-10",
       "expected_date": "2026-10-15",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 20, "unit_cost_usd": 1100.00, "amount_usd": 22000.00 },
-        { "item_id": "I-002", "item_name": "Teak Dining Table 240cm", "quantity": 30, "unit_cost_usd": 1600.00, "amount_usd": 48000.00 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 200, "unit_cost_usd": 320.00, "amount_usd": 64000.00 },
-        { "item_id": "I-010", "item_name": "Teak Outdoor Bar Cabinet", "quantity": 12, "unit_cost_usd": 1950.00, "amount_usd": 23400.00 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 20,
+          "unit_cost_usd": 1100.0,
+          "amount_usd": 22000.0
+        },
+        {
+          "item_id": "I-002",
+          "item_name": "Teak Dining Table 240cm",
+          "quantity": 30,
+          "unit_cost_usd": 1600.0,
+          "amount_usd": 48000.0
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 200,
+          "unit_cost_usd": 320.0,
+          "amount_usd": 64000.0
+        },
+        {
+          "item_id": "I-010",
+          "item_name": "Teak Outdoor Bar Cabinet",
+          "quantity": 12,
+          "unit_cost_usd": 1950.0,
+          "amount_usd": 23400.0
+        }
       ],
-      "total_usd": 157400.00,
+      "total_usd": 157400.0,
       "memo": "New teak collection replenishment — priority order following strong Q2/Q3 sell-through. ETD Semarang 2026-09-05. ETA LA warehouse 2026-10-15. Freight via Global Freight Partners."
     },
     {
@@ -1148,9 +1701,15 @@
       "created_date": "2026-06-01",
       "expected_date": "2026-08-05",
       "line_items": [
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 100, "unit_cost_usd": 180.00, "amount_usd": 18000.00 }
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 100,
+          "unit_cost_usd": 180.0,
+          "amount_usd": 18000.0
+        }
       ],
-      "total_usd": 18000.00,
+      "total_usd": 18000.0,
       "memo": "Side table restock. 60 units received 2026-07-28 into LA warehouse. Remaining 40 units ETA 2026-08-20 — held at port of Tanjung Perak for inspection."
     },
     {
@@ -1162,12 +1721,36 @@
       "created_date": "2026-08-01",
       "expected_date": "2026-09-30",
       "line_items": [
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 40, "unit_cost_usd": 980.00, "amount_usd": 39200.00 },
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 30, "unit_cost_usd": 1350.00, "amount_usd": 40500.00 },
-        { "item_id": "I-007", "item_name": "Sun Lounger Aluminium Flat", "quantity": 50, "unit_cost_usd": 560.00, "amount_usd": 28000.00 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 30, "unit_cost_usd": 900.00, "amount_usd": 27000.00 }
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 40,
+          "unit_cost_usd": 980.0,
+          "amount_usd": 39200.0
+        },
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 30,
+          "unit_cost_usd": 1350.0,
+          "amount_usd": 40500.0
+        },
+        {
+          "item_id": "I-007",
+          "item_name": "Sun Lounger Aluminium Flat",
+          "quantity": 50,
+          "unit_cost_usd": 560.0,
+          "amount_usd": 28000.0
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 30,
+          "unit_cost_usd": 900.0,
+          "amount_usd": 27000.0
+        }
       ],
-      "total_usd": 134700.00,
+      "total_usd": 134700.0,
       "memo": "Aluminium frames and sun loungers — Q4 pre-build for spring/summer season. ETD Ningbo 2026-09-08. ETA LA warehouse 2026-09-30."
     },
     {
@@ -1179,10 +1762,22 @@
       "created_date": "2026-04-15",
       "expected_date": "2026-06-10",
       "line_items": [
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 30, "unit_cost_usd": 980.00, "amount_usd": 29400.00 },
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 20, "unit_cost_usd": 1350.00, "amount_usd": 27000.00 }
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 30,
+          "unit_cost_usd": 980.0,
+          "amount_usd": 29400.0
+        },
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 20,
+          "unit_cost_usd": 1350.0,
+          "amount_usd": 27000.0
+        }
       ],
-      "total_usd": 56400.00,
+      "total_usd": 56400.0,
       "memo": "Q2 aluminium lounge top-up. Received in full 2026-06-12 — 2 days late due to port congestion Ningbo. Goods inspected, no defects."
     },
     {
@@ -1194,12 +1789,36 @@
       "created_date": "2026-03-10",
       "expected_date": "2026-04-20",
       "line_items": [
-        { "item_id": "I-006", "item_name": "Wicker Daybed with Canopy (fabric/cushion component)", "quantity": 50, "unit_cost_usd": 240.00, "amount_usd": 12000.00 },
-        { "item_id": "I-007", "item_name": "Sun Lounger Cushion Sets", "quantity": 100, "unit_cost_usd": 85.00, "amount_usd": 8500.00 },
-        { "item_id": "I-004", "item_name": "Lounge Sofa Cushion Sets (2-seater)", "quantity": 60, "unit_cost_usd": 120.00, "amount_usd": 7200.00 },
-        { "item_id": "I-005", "item_name": "Lounge Sofa Cushion Sets (3-seater)", "quantity": 50, "unit_cost_usd": 150.00, "amount_usd": 7500.00 }
+        {
+          "item_id": "I-006",
+          "item_name": "Wicker Daybed with Canopy (fabric/cushion component)",
+          "quantity": 50,
+          "unit_cost_usd": 240.0,
+          "amount_usd": 12000.0
+        },
+        {
+          "item_id": "I-007",
+          "item_name": "Sun Lounger Cushion Sets",
+          "quantity": 100,
+          "unit_cost_usd": 85.0,
+          "amount_usd": 8500.0
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Lounge Sofa Cushion Sets (2-seater)",
+          "quantity": 60,
+          "unit_cost_usd": 120.0,
+          "amount_usd": 7200.0
+        },
+        {
+          "item_id": "I-005",
+          "item_name": "Lounge Sofa Cushion Sets (3-seater)",
+          "quantity": 50,
+          "unit_cost_usd": 150.0,
+          "amount_usd": 7500.0
+        }
       ],
-      "total_usd": 35200.00,
+      "total_usd": 35200.0,
       "memo": "Sunbrella fabric cushion sets — spring/summer production run. All Sunbrella Grade A fabric, Stone Linen and Sand colourways. Received in full 2026-04-18."
     },
     {
@@ -1211,15 +1830,32 @@
       "created_date": "2026-08-11",
       "expected_date": "2026-10-20",
       "line_items": [
-        { "item_id": null, "item_name": "Ocean Freight — FCL 40HC x2 (Semarang to Los Angeles)", "quantity": 1, "unit_cost_usd": 7800.00, "amount_usd": 7800.00 },
-        { "item_id": null, "item_name": "Customs Brokerage & Import Duties (estimated)", "quantity": 1, "unit_cost_usd": 4200.00, "amount_usd": 4200.00 },
-        { "item_id": null, "item_name": "Drayage & Warehouse Receiving — LA", "quantity": 1, "unit_cost_usd": 1800.00, "amount_usd": 1800.00 }
+        {
+          "item_id": null,
+          "item_name": "Ocean Freight — FCL 40HC x2 (Semarang to Los Angeles)",
+          "quantity": 1,
+          "unit_cost_usd": 7800.0,
+          "amount_usd": 7800.0
+        },
+        {
+          "item_id": null,
+          "item_name": "Customs Brokerage & Import Duties (estimated)",
+          "quantity": 1,
+          "unit_cost_usd": 4200.0,
+          "amount_usd": 4200.0
+        },
+        {
+          "item_id": null,
+          "item_name": "Drayage & Warehouse Receiving — LA",
+          "quantity": 1,
+          "unit_cost_usd": 1800.0,
+          "amount_usd": 1800.0
+        }
       ],
-      "total_usd": 13800.00,
+      "total_usd": 13800.0,
       "memo": "Freight services for PO-001 teak collection shipment. Two 40HC containers from Semarang, Indonesia to Port of Los Angeles. ETD 2026-09-05, ETA 2026-10-10."
     }
   ],
-
   "vendors": [
     {
       "id": "V-001",
@@ -1229,8 +1865,8 @@
       "email": "export@harbourteak.co.id",
       "phone": "+62-21-555-0184",
       "payment_terms": "Net30",
-      "outstanding_balance_usd": 175400.00,
-      "ytd_purchases_usd": 412800.00,
+      "outstanding_balance_usd": 175400.0,
+      "ytd_purchases_usd": 412800.0,
       "country": "Indonesia"
     },
     {
@@ -1241,8 +1877,8 @@
       "email": "sales@harbouraluminum.cn",
       "phone": "+86-574-555-0231",
       "payment_terms": "Net30",
-      "outstanding_balance_usd": 134700.00,
-      "ytd_purchases_usd": 354600.00,
+      "outstanding_balance_usd": 134700.0,
+      "ytd_purchases_usd": 354600.0,
       "country": "China"
     },
     {
@@ -1253,8 +1889,8 @@
       "email": "orders@pacificfabric.com.au",
       "phone": "+61-3-9555-0376",
       "payment_terms": "Net30",
-      "outstanding_balance_usd": 0.00,
-      "ytd_purchases_usd": 98400.00,
+      "outstanding_balance_usd": 0.0,
+      "ytd_purchases_usd": 98400.0,
       "country": "Australia"
     },
     {
@@ -1265,12 +1901,11 @@
       "email": "ops@globalfreightpartners.com",
       "phone": "+1-310-555-0092",
       "payment_terms": "Net15",
-      "outstanding_balance_usd": 13800.00,
-      "ytd_purchases_usd": 76200.00,
+      "outstanding_balance_usd": 13800.0,
+      "ytd_purchases_usd": 76200.0,
       "country": "US"
     }
   ],
-
   "item_fulfillments": [
     {
       "id": "FULFIL-001",
@@ -1283,10 +1918,26 @@
       "carrier": "XPO Logistics",
       "tracking_number": "XPO-20260705-HO-0892",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 6 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 24 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 8 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 6 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 6
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 24
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 8
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 6
+        }
       ],
       "warehouse_location": "Los Angeles Warehouse, CA"
     },
@@ -1301,9 +1952,21 @@
       "carrier": "FedEx Freight",
       "tracking_number": "FXF-966847120104",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 4 },
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 4 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 8 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 4
+        },
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 4
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 8
+        }
       ],
       "warehouse_location": "Los Angeles Warehouse, CA"
     },
@@ -1318,9 +1981,21 @@
       "carrier": "DB Schenker",
       "tracking_number": "DBS-EU-20260801-044711",
       "line_items": [
-        { "item_id": "I-002", "item_name": "Teak Dining Table 240cm", "quantity": 4 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 32 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 12 }
+        {
+          "item_id": "I-002",
+          "item_name": "Teak Dining Table 240cm",
+          "quantity": 4
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 32
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 12
+        }
       ],
       "warehouse_location": "Los Angeles Warehouse, CA"
     },
@@ -1335,9 +2010,21 @@
       "carrier": "DB Schenker",
       "tracking_number": "DBS-EU-20260816-051822",
       "line_items": [
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 6 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 6 },
-        { "item_id": "I-010", "item_name": "Teak Outdoor Bar Cabinet", "quantity": 3 }
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 6
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 6
+        },
+        {
+          "item_id": "I-010",
+          "item_name": "Teak Outdoor Bar Cabinet",
+          "quantity": 3
+        }
       ],
       "warehouse_location": "Los Angeles Warehouse, CA"
     },
@@ -1352,10 +2039,26 @@
       "carrier": "Metropolitan Logistics",
       "tracking_number": "MET-NYC-20260601-7741",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 2 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 8 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 2 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 4 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 2
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 8
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 2
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 4
+        }
       ],
       "warehouse_location": "Los Angeles Warehouse, CA"
     },
@@ -1370,10 +2073,26 @@
       "carrier": "Toll Group",
       "tracking_number": "TOLL-AU-20260520-009341",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 10 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 40 },
-        { "item_id": "I-007", "item_name": "Sun Lounger Aluminium Flat", "quantity": 20 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 8 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 10
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 40
+        },
+        {
+          "item_id": "I-007",
+          "item_name": "Sun Lounger Aluminium Flat",
+          "quantity": 20
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 8
+        }
       ],
       "warehouse_location": "Melbourne Warehouse, AU"
     },
@@ -1388,9 +2107,21 @@
       "carrier": "Plycon Group",
       "tracking_number": "PLY-LA-20260810-3381",
       "line_items": [
-        { "item_id": "I-001", "item_name": "Teak Dining Table 180cm", "quantity": 1 },
-        { "item_id": "I-003", "item_name": "Teak Dining Chair", "quantity": 6 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 1 }
+        {
+          "item_id": "I-001",
+          "item_name": "Teak Dining Table 180cm",
+          "quantity": 1
+        },
+        {
+          "item_id": "I-003",
+          "item_name": "Teak Dining Chair",
+          "quantity": 6
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 1
+        }
       ],
       "warehouse_location": "Los Angeles Warehouse, CA"
     },
@@ -1405,110 +2136,124 @@
       "carrier": "Metropolitan Logistics",
       "tracking_number": "MET-NYC-20260718-8814",
       "line_items": [
-        { "item_id": "I-005", "item_name": "Aluminium Lounge Sofa 3-Seater", "quantity": 1 },
-        { "item_id": "I-004", "item_name": "Aluminium Lounge Sofa 2-Seater", "quantity": 1 },
-        { "item_id": "I-009", "item_name": "Teak Outdoor Side Table Round", "quantity": 2 },
-        { "item_id": "I-008", "item_name": "Cantilever Umbrella 4m", "quantity": 1 }
+        {
+          "item_id": "I-005",
+          "item_name": "Aluminium Lounge Sofa 3-Seater",
+          "quantity": 1
+        },
+        {
+          "item_id": "I-004",
+          "item_name": "Aluminium Lounge Sofa 2-Seater",
+          "quantity": 1
+        },
+        {
+          "item_id": "I-009",
+          "item_name": "Teak Outdoor Side Table Round",
+          "quantity": 2
+        },
+        {
+          "item_id": "I-008",
+          "item_name": "Cantilever Umbrella 4m",
+          "quantity": 1
+        }
       ],
       "warehouse_location": "Los Angeles Warehouse, CA"
     }
   ],
-
   "transactions": [
     {
       "id": "TXN-001",
       "transaction_type": "invoice",
       "date": "2026-08-06",
       "account": "Accounts Receivable",
-      "debit_usd": 171120.00,
-      "credit_usd": 0.00,
+      "debit_usd": 171120.0,
+      "credit_usd": 0.0,
       "memo": "Invoice HO-INV-2026-0089 — Four Seasons Hotels & Resorts, SO-001",
       "related_record_id": "INV-001",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "TXN-002",
       "transaction_type": "invoice",
       "date": "2026-07-15",
       "account": "Accounts Receivable",
-      "debit_usd": 107040.00,
-      "credit_usd": 0.00,
+      "debit_usd": 107040.0,
+      "credit_usd": 0.0,
       "memo": "Invoice HO-INV-2026-0082 — Aman Resorts Group, SO-002",
       "related_record_id": "INV-002",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "TXN-003",
       "transaction_type": "payment",
       "date": "2026-08-01",
       "account": "Accounts Receivable",
-      "debit_usd": 0.00,
-      "credit_usd": 50000.00,
+      "debit_usd": 0.0,
+      "credit_usd": 50000.0,
       "memo": "Partial payment received — Aman Resorts, INV-002. Wire transfer.",
       "related_record_id": "INV-002",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "TXN-004",
       "transaction_type": "invoice",
       "date": "2026-07-06",
       "account": "Accounts Receivable",
-      "debit_usd": 75160.00,
-      "credit_usd": 0.00,
+      "debit_usd": 75160.0,
+      "credit_usd": 0.0,
       "memo": "Invoice HO-INV-2026-0071 — RH (Restoration Hardware), SO-003. OVERDUE.",
       "related_record_id": "INV-003",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "TXN-005",
       "transaction_type": "payment",
       "date": "2026-07-17",
       "account": "Accounts Receivable",
-      "debit_usd": 0.00,
-      "credit_usd": 30390.00,
+      "debit_usd": 0.0,
+      "credit_usd": 30390.0,
       "memo": "Payment in full — Design Within Reach, INV-004. ACH ref: DWR-PAY-20260717-HO.",
       "related_record_id": "INV-004",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "TXN-006",
       "transaction_type": "payment",
       "date": "2026-06-18",
       "account": "Accounts Receivable",
-      "debit_usd": 0.00,
-      "credit_usd": 118000.00,
+      "debit_usd": 0.0,
+      "credit_usd": 118000.0,
       "memo": "Payment in full — Pacific Luxe Distribution, INV-007. International wire.",
       "related_record_id": "INV-007",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "TXN-007",
       "transaction_type": "journal_entry",
       "date": "2026-08-19",
       "account": "Accounts Payable",
-      "debit_usd": 0.00,
-      "credit_usd": 157400.00,
+      "debit_usd": 0.0,
+      "credit_usd": 157400.0,
       "memo": "PO-001 accrual — Harbour Teak Works, new teak collection. Expected receipt October 2026.",
       "related_record_id": "PO-001",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     },
     {
       "id": "TXN-008",
       "transaction_type": "credit_memo",
       "date": "2026-03-15",
       "account": "Accounts Receivable",
-      "debit_usd": 0.00,
-      "credit_usd": 41200.00,
+      "debit_usd": 0.0,
+      "credit_usd": 41200.0,
       "memo": "Credit memo — SO-012 cancellation, RH (Restoration Hardware). No goods shipped. Full credit issued.",
       "related_record_id": "SO-012",
-      "subsidiary": "Harbour Outdoor US LLC"
+      "subsidiary": "Summit Outdoor US LLC"
     }
   ],
-
   "subsidiaries": [
     {
       "id": "SUB-001",
-      "name": "Harbour Outdoor US LLC",
+      "name": "Summit Outdoor US LLC",
       "currency": "USD",
       "fiscal_year_start": "January",
       "country": "US",
