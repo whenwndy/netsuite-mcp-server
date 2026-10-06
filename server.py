@@ -580,6 +580,44 @@ def update_purchase_order(
 
 
 # ---------------------------------------------------------------------------
+# Warehouse Performance
+# ---------------------------------------------------------------------------
+
+@mcp.tool()
+def get_warehouse_performance(
+    warehouse_id: Optional[str] = Field(default=None, description="Filter by warehouse ID: LOC-01 (Hebron KY) | LOC-02 (Los Angeles CA)"),
+    warehouse_name: Optional[str] = Field(default=None, description="Filter by warehouse name (partial match)"),
+    date: Optional[str] = Field(default=None, description="Filter by date, e.g. 2026-10-02. Today is 2026-10-02."),
+    at_risk: Optional[bool] = Field(default=None, description="If true, return only warehouses at or approaching capacity threshold"),
+) -> list[dict]:
+    """Return today's warehouse performance including capacity utilization, orders processed, units shipped, fulfillment status, and on-time shipping rate. Today is 2026-10-02. Hebron KY is at 82% capacity with a large inbound PO arriving Oct 10 that will push capacity to ~97%."""
+    results = _db["warehouse_performance"]
+    if warehouse_id:
+        results = [r for r in results if r["warehouse_id"].upper() == warehouse_id.upper()]
+    if warehouse_name:
+        results = [r for r in results if _match(r, "warehouse_name", warehouse_name)]
+    if date:
+        results = [r for r in results if r["date"] == date]
+    if at_risk is not None:
+        results = [r for r in results if r["at_risk"] == at_risk or r["capacity_utilization_pct"] >= r["capacity_threshold_pct"] - 5]
+    return results
+
+
+@mcp.tool()
+def get_warehouse_order_pipeline(
+    warehouse_id: Optional[str] = Field(default=None, description="Filter by warehouse ID: LOC-01 (Hebron KY) | LOC-02 (Los Angeles CA)"),
+    warehouse_name: Optional[str] = Field(default=None, description="Filter by warehouse name (partial match)"),
+) -> list[dict]:
+    """Return the order pipeline per warehouse showing orders due today, rolling into tomorrow, and this week — plus capacity impact of any inbound POs. Use this to answer questions about tomorrow's expected order volume and capacity risk."""
+    results = _db["warehouse_order_pipeline"]
+    if warehouse_id:
+        results = [r for r in results if r["warehouse_id"].upper() == warehouse_id.upper()]
+    if warehouse_name:
+        results = [r for r in results if _match(r, "warehouse_name", warehouse_name)]
+    return results
+
+
+# ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
 
