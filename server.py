@@ -39,9 +39,8 @@ mcp = FastMCP(
     name="netsuite-mock",
     version="1.0.0",
     instructions=(
-        "Mock NetSuite ERP for Harbour Outdoor luxury furniture. Query and manage customers, "
-        "items, inventory, sales orders, invoices, purchase orders, vendors, fulfillments, "
-        "and transactions."
+        "Mock NetSuite ERP for Bombas premium sock and apparel brand. Query customers, "
+        "products, inventory, sales orders, invoices, purchase orders, vendors, and fulfillments."
     ),
 )
 
